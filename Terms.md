@@ -1,10 +1,76 @@
-**Terms of Service**
+**Sage Bionetworks Terms of Service**
 
 **Last Updated: \[Date\]**
 
 **<u>Summary of Key Provisions</u>**
 
+Here is a summary of several key provisions of Sage Bionetworks’ Terms of Service. Be certain to read the full Terms of Service in detail; in the event of any conflict or inconsistency between this summary and the full Terms of Service, the full Terms of Service will govern. You must accept these Terms of Service to contribute, access, and/or use the Sage Bionetworks platforms and other services.
+
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><p><strong>You agree to the following ethical principles</strong></p>
+<ul>
+<li><p>Act ethically and responsibly.</p></li>
+<li><p>Protect and respect data participants’ privacy and confidentiality.</p></li>
+<li><p>Take full responsibility for your use of data, software, and other content.</p></li>
+<li><p>Share User Content only when you have the authority to do so, and when sharing does not violate any applicable laws or contracts.</p></li>
+<li><p>Not hack Synapse.</p></li>
+<li><p>Abide by all applicable laws and regulations.</p></li>
+</ul>
+
+<p><strong>When registering to and using Sage's services, you must:</strong></p>
+<ul>
+<li><p>Register using accurate, current, and complete information.</p></li>
+<li><p>Respect the intellectual property rights of others and acknowledge contributors in all presentations. </p></li>
+<li><p>Not discriminate, identify, or re-contact individuals or groups represented by the Data.</p></li>
+<li><p>Keep personal information private and secure from any potential abuses.</p></li>
+<li><p>Maintain your account security and not share your account credentials.</p></li>
+<li><p>Pay fees for certain premium service features.</p></li>
+<li><p>Agree to binding individual arbitration to resolve disputes but can opt-out within 30 days.</p></li>
+</ul>
+
+<p><strong>When contributing User Content, or accessing advanced features you must: </strong></p>
+<ul>
+<li><p>Complete the Sage Bionetworks training to demonstrate understanding of rules for redistributing datasets, Software, or other Content, and interacting with cloud technologies, APIs, and de-identified information.</p></li>
+<li><p>Remove direct HIPAA identifiers from Content you contribute, unless otherwise unambiguously authorized.  See information about de-identification in accordance with the HIPAA Privacy Rule.</p></li>
+<li><p>Ensure that data participants have consented to the sharing and use of their Data, where required by applicable law.</p></li>
+<li><p>License Public Content under Creative Commons BY 4.0 and open-source licenses like Apache 2.0.</p></li>
+<li><p>Grant Sage broader licenses for Private Content to operate services, improve products, and train AI models.</p></li>
+</ul>
+
+<p><strong>We want you to be aware that:</strong></p>
+<ul>
+<li><p>We will remove Content if we deem it inappropriate and will cancel your account for violations, or prolonged inactivity./p></li>
+<li><p>We respect the intellectual property rights, including copyrights, patents, trade secrets, and trademarks, of others, and ask you to do the same. You retain copyright in the content you post but grant licenses to Sage and other users.</p></li>
+<li><p>We have the right to use your Content to operate our services and develop new products.</p></li>
+<li><p>You must be 18 years or older to use our services.</p></li>
+<li><p>We take no responsibility or liability for any Content that has been posted to our Services.</p></li>
+<li><p>You may cancel your account at any time.</p></li>
+
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 **<u>Full Terms of Service</u>**
+
+Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</strong>,” “<strong>we,</strong>” or “<strong>us</strong>") and our services. These include our Synapse platform located at www.synapse.org, our websites, hosted applications, mobile, or other downloadable applications, portals, topical challenges run through platform(s), analysis tools, and other information and services provided by us (collectively, the “Service”). These Terms of Service are a legally binding contract between you (“you” or “your”) and Sage regarding your use of the Service.
+<p>PLEASE READ THE FOLLOWING TERMS CAREFULLY:</p>
+<p><strong>BY CLICKING “I ACCEPT”, DOWNLOADING, UPLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE,</strong> YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND ANY ADDITIONAL APPLICABLE GOVERNANCE TERMS, POLICIES, RULES, GUIDELINES, OFFERINGS, OR AGREEMENTS INCLUDING SAGE’S PRIVACY POLICY [insert link to Privacy Policy], ALL HEREBY INCORPORATED BY REFERENCE (TOGETHER, THESE “TERMS”). IF YOU ARE NOT ELIGIBLE, OR DO NOT AGREE TO THE TERMS, THEN YOU DO NOT HAVE OUR PERMISSION TO USE THE SERVICE. YOUR USE OF THE SERVICE, AND SAGE’S PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY SAGE AND BY YOU TO BE BOUND BY THESE TERMS.</p> 
+<p>YOU AGREE TO RECEIVE TEXTS/CALLS FROM OR ON BEHALF OF SAGE AT THE PHONE NUMBER YOU PROVIDE TO US. THESE TEXTS/CALLS MAY INCLUDE AUTHENTICATION OR OTHER INFORMATION ABOUT THE SERVICE. YOU UNDERSTAND AND AGREE THAT THESE TEXTS/CALLS MAY BE CONSIDERED TELEMARKETING UNDER APPLICABLE LAW, THEY MAY BE SENT USING AN AUTOMATIC TELEPHONE DIALING SYSTEM OR OTHER AUTOMATED TECHNOLOGY, AND YOUR CONSENT IS NOT A CONDITION OF ANY PURCHASE.</p> 
+<p><strong>ARBITRATION NOTICE</strong>. Except for certain kinds of disputes described in Section 19 (Dispute Resolution and Arbitration), you agree that disputes arising under these Terms will be resolved by binding, individual arbitration, and BY ACCEPTING THESE TERMS, YOU AND SAGE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING.</p>
+
+
+
+
 
 **<u>Sage Service Overview.</u>**
 
