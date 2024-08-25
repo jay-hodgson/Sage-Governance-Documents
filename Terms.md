@@ -1,8 +1,8 @@
-**Sage Bionetworks Terms of Service**
+**<h1>Sage Bionetworks Terms of Service</h1>**
 
 **Last Updated: \[Date\]**
 
-**<u>Summary of Key Provisions</u>**
+<h2>Summary of Key Provisions</h2>
 
 Here is a summary of several key provisions of Sage Bionetworks’ Terms of Service. Be certain to read the full Terms of Service in detail; in the event of any conflict or inconsistency between this summary and the full Terms of Service, the full Terms of Service will govern. You must accept these Terms of Service to contribute, access, and/or use the Sage Bionetworks platforms and other services.
 
@@ -60,7 +60,9 @@ Here is a summary of several key provisions of Sage Bionetworks’ Terms of Serv
 
 
 
-**<u>Full Terms of Service</u>**
+<h2>Full Terms of Service</h2>
+
+
 
 Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</strong>,” “<strong>we,</strong>” or “<strong>us</strong>") and our services. These include our Synapse platform located at www.synapse.org, our websites, hosted applications, mobile, or other downloadable applications, portals, topical challenges run through platform(s), analysis tools, and other information and services provided by us (collectively, the “Service”). These Terms of Service are a legally binding contract between you (“you” or “your”) and Sage regarding your use of the Service.
 <p>PLEASE READ THE FOLLOWING TERMS CAREFULLY:</p>
@@ -70,42 +72,43 @@ Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</s
 
 
 
+<ol>
+    <li>
+        <h3>Sage Service Overview.</h3>
 
-
-**<u>Sage Service Overview.</u>**
-
-**<u>Sage is a non-profit research organization helping researchers
+<p>Sage is a non-profit research organization helping researchers
 worldwide do better science together by enabling a collaborative
 approach to information sharing and analysis. We provide the Service to
 users subject to these Terms, including but not limited to access to the
-following:</u>**
+following:
 
-**<u>Synapse, a computational platform where researchers can share and
+<ol>
+    <li><p>Synapse, a computational platform where researchers can share and
 reuse datasets to improve knowledge of health and disease. Sage acts as
 a steward for the content available through Synapse. Synapse users are
 responsible for the data they submit to and/or share through the
 Service. Synapse offers multiple tiers of functionality with different
 restrictions and limitations on types of allowable User Content (as
-defined below in Section 9.3)</u>**
+defined below in Section 9.3)</li>
 
-**<u>Challenge Platform(s), a technology platform that supports an
+<li><p>Challenge Platform(s), a technology platform that supports an
 open-science, collaborative competition framework for evaluating and
-comparing computational algorithms and other ideation inputs.</u>**
+comparing computational algorithms and other ideation inputs.</li>
 
-**<u>Portals, knowledge portals are community-specific interfaces that
-enable researchers to explore and share data, analyses, and tools.</u>**
+<li><p>Portals, knowledge portals are community-specific interfaces that
+enable researchers to explore and share data, analyses, and tools.</li>
 
-**<u>Governance and Data Processing, additional data processing and/or
+<li><p>Governance and Data Processing, additional data processing and/or
 governance consulting and implementation provided by Sage staff
-available under specific service plans.</u>**
+available under specific service plans.</li>
 
-**<u>User Workspaces/Projects, areas where users can collaborate with
+<li><p>User Workspaces/Projects, areas where users can collaborate with
 each other. Consistent with Section 9.2, users in charge of
 administering Projects are responsible for credentialing any users of
 such workspace and providing all additional license grants necessary for
-other users to collaborate within the workspace.</u>**
+other users to collaborate within the workspace.</li>
 
-**<u>Connections to other Platforms. Consistent with Section 10, Sage
+<li><p>Connections to other Platforms. Consistent with Section 10, Sage
 may provide access to other platforms via application programming
 interfaces (<span dir="rtl">“</span>API”) to allow users to connect to
 and utilize User Content in third-party computing platforms and other
@@ -113,13 +116,17 @@ environments, including user-supplied data storage environments. Any use
 of Content (as defined below in Section 9.1) on such third party
 computing platforms or in other environments is subject to any use
 restrictions associated with such User Content. Consistent with Section
-8, any use of third party sites is at the users own risk.</u>**
+8, any use of third party sites is at the users own risk.</li>
 
-**<u>Medical Advice Disclaimer.</u>**
+</ol>
 
-**<u>Eligibility.</u>**
+<li><h3>Medical Advice Disclaimer.</h3>
+<p> All Content accessible through the Service is for informational purposes only. Materials (as defined below in Section 7) and Content are not a substitute for professional advice on any matter, medical or otherwise. Always seek the advice of a qualified health professional. Sage does not recommend or endorse any treatment, institution, professional, physician, product, procedure, or other information that may be mentioned through the Service.
+</p></li>
 
-**<u>You must be at least 18 years old to use the Service. By agreeing
+<li><h3>Eligibility.</h3>
+
+<p>You must be at least 18 years old to use the Service. By agreeing
 to these Terms, you represent and warrant to us that: (a) you are at
 least 18 years old; (b) you are not suspended nor have you been removed
 from the Service; (c) you will not permit any other person, entity,
@@ -128,13 +135,15 @@ organization, or company to access the Service through your account; and
 any and all applicable laws and regulations. If you are an entity,
 organization, or company, the individual accepting these Terms on your
 behalf represents and warrants that they have authority to bind you to
-these Terms and you agree to be bound by these Terms.</u>**
+these Terms and you agree to be bound by these Terms.</p>
 
-**<u>Account Registration, Training Obligations, and Ongoing Use.</u>**
-
-**Accounts.**
-
-**Registration. You may browse the Public Content (as defined below in
+<li><h3>Account Registration, Training Obligations, and Ongoing Use.</h3>
+<ol>
+    <li>
+<P><h4>Accounts.</h4>
+<ol>
+<li>
+    <p><ins>Registration.</ins> You may browse the Public Content (as defined below in
 Section 9.2) catalog and access limited features, but to access most
 features of the Service, you must register for an account. You can
 register by providing an email address. To access some of the
@@ -149,18 +158,23 @@ choose a username and create a password (login credentials). You are
 solely responsible for maintaining the confidentiality of your account
 and password, and you accept responsibility for all activities that
 occur under your account. If you believe that your account is no longer
-secure, then you should immediately notify us at act@sagebase.org.**
-
-**Suspension. In addition to suspending an account due to an
+secure, then you should immediately notify us at act@sagebase.org.</p></li>
+<li>
+    <p><ins>Suspension.</ins> In addition to suspending an account due to an
 undeliverable email, Sage reserves the right to suspend an account that
 has not been active in 24 months. In order to reactivate such an
 account, you will be required to accept the then current Terms of
 Service and may be required to retake certain training. In the event of
 an account suspension due to inactivity, Sage may delete any User
 Content, in accordance with the applicable User Content Longevity in the
-Offerings page.**
+Offerings page.</p></li>
+</li>
+</ol>
 
-**<u>Training Obligations. In order to be able to access more advanced
+
+
+<li>
+<p><h4>Training Obligations.</h4> In order to be able to access more advanced
 features on the Service, including the ability to independently
 contribute User Content, you may be required to complete certain
 training to demonstrate your understanding of the ethical, legal, and
@@ -172,84 +186,90 @@ technical issues associated with using the Service, we reserve the right
 to inactivate your account immediately with or without notice to you and
 without any liability to you or any third party, subject to applicable
 law. In the event we terminate your account, you will lose access to any
-Content, which may include User Content you have contributed.</u>**
+Content, which may include User Content you have contributed.</p></li>
 
-**<u>Compliance with Laws. By using the Service, you affirm, represent,
+<li><h4>Compliance with Laws.</h4> By using the Service, you affirm, represent,
 and warrant to us that you will only use the Service for legal purposes
 and will not violate any local, state, national, or international law,
 regulation, including all privacy laws and regulations, or order of any
-governmental authority in any jurisdiction.</u>**
+governmental authority in any jurisdiction.</li>
+</ol>
 
-**<u>Payment Terms.</u>**
-
-**General Payment Terms. Certain features of the Service may require you
+<li>
+<h3>Payment Terms.</h3>
+<ol>
+<li><h4>General Payment Terms.</h4> Certain features of the Service may require you
 to pay fees. Before you pay any fees, you will have an opportunity to
 review and accept the fees that you will be charged. All fees are in
 U.S. Dollars and are non-refundable unless otherwise specifically
 provided for in these Terms. All payments are due within 30 days of
-invoice unless otherwise agreed to by Sage.**
+invoice unless otherwise agreed to by Sage.</li>
+    
+<li><h4>Price.</h4> Sage reserves the right to determine pricing for the
+Service. Sage will make reasonable efforts to keep published pricing
+information on the Service up to date. We encourage you to check our
+pricing page periodically for current menu pricing information. Sage
+may change the fees for any feature of the Service, including
+additional fees or charges. Sage will give you advance notice of
+changes before they apply. Sage, at its sole discretion, may make
+promotional offers with different features and different pricing to
+any of Sage<span dir="rtl">’</span>s customers. These promotional
+offers, unless made to you, will not apply to your offer or these
+Terms.</li>
 
-1.  **Price. Sage reserves the right to determine pricing for the
-    Service. Sage will make reasonable efforts to keep published pricing
-    information on the Service up to date. We encourage you to check our
-    pricing page periodically for current menu pricing information. Sage
-    may change the fees for any feature of the Service, including
-    additional fees or charges. Sage will give you advance notice of
-    changes before they apply. Sage, at its sole discretion, may make
-    promotional offers with different features and different pricing to
-    any of Sage<span dir="rtl">’</span>s customers. These promotional
-    offers, unless made to you, will not apply to your offer or these
-    Terms.**
+<li><h4>Authorization.</h4> You authorize Sage to charge all sums for the
+orders that you make and any level of Service you select as
+described in these Terms or published by Sage, including all
+applicable taxes, to the payment method specified by Sage. If you
+pay any fees with a credit card, then Sage may seek
+pre-authorization of your credit card account prior to your purchase
+to verify that the credit card is valid and has the necessary funds
+or credit available to cover your purchase.</li>
 
-2.  **Authorization. You authorize Sage to charge all sums for the
-    orders that you make and any level of Service you select as
-    described in these Terms or published by Sage, including all
-    applicable taxes, to the payment method specified by Sage. If you
-    pay any fees with a credit card, then Sage may seek
-    pre-authorization of your credit card account prior to your purchase
-    to verify that the credit card is valid and has the necessary funds
-    or credit available to cover your purchase.**
+<li><h4>Delinquent Accounts.</h4> Sage may suspend or terminate access to the
+Service, including fee-based portions of the Service, for any
+account for which any amount is due but unpaid. In addition to the
+amount due for the Service, a delinquent account will be charged
+with fees or charges that are incidental to any chargeback or
+collection of any unpaid amount, including collection fees.</li>
+</li>
+</ol>
 
-3.  **Delinquent Accounts. Sage may suspend or terminate access to the
-    Service, including fee-based portions of the Service, for any
-    account for which any amount is due but unpaid. In addition to the
-    amount due for the Service, a delinquent account will be charged
-    with fees or charges that are incidental to any chargeback or
-    collection of any unpaid amount, including collection fees.**
-
-**<u>Licenses</u>**
-
-**Limited License. Subject to your complete and ongoing compliance with
+    
+<li><h3>Licenses</h3>
+<ol>
+<li><h4>Limited License.</h4> Subject to your complete and ongoing compliance with
 these Terms, Sage grants you a limited, non-exclusive, non-transferable,
 non-sublicensable, revocable license to: (a) install and use one object
 code copy of any mobile or other downloadable application associated
 with the Service on a mobile device that you own or control; and (b)
-access and use of the Service.**
+access and use of the Service.</li>
 
-1.  **License Restrictions. Except and solely to the extent that such a
-    restriction is impermissible under applicable law, or explicitly
-    allowed elsewhere under these Terms, you may not: (a) reproduce,
-    distribute, publicly display, publicly perform, or create derivative
-    works of the Service; (b) make modifications to the Service; or (c)
-    interfere with or circumvent any feature of the Service, including
-    any security or access control mechanism. If you are prohibited
-    under applicable law from using the Service, then you may not use
-    it.**
+<li><h4>License Restrictions.</h4> Except and solely to the extent that such a
+restriction is impermissible under applicable law, or explicitly
+allowed elsewhere under these Terms, you may not: (a) reproduce,
+distribute, publicly display, publicly perform, or create derivative
+works of the Service; (b) make modifications to the Service; or (c)
+interfere with or circumvent any feature of the Service, including
+any security or access control mechanism. If you are prohibited
+under applicable law from using the Service, then you may not use
+it.</li>
 
-<!-- -->
+<li><h4>Feedback.</h4> We respect and appreciate the thoughts and comments from
+our users. If you choose to provide input and suggestions regarding
+existing functionalities, problems with or proposed modifications or
+improvements to the Service (<span dir="rtl">“</span>Feedback”),
+then you hereby grant Sage an unrestricted, perpetual, irrevocable,
+non-exclusive, fully-paid, royalty-free right and license to exploit
+the Feedback in any manner and for any purpose, including to improve
+the Service and create other products and services. We will have no
+obligation to provide you with attribution for any Feedback you
+provide to us.</li>
+  </li>  
+</ol>
 
-1.  **Feedback. We respect and appreciate the thoughts and comments from
-    our users. If you choose to provide input and suggestions regarding
-    existing functionalities, problems with or proposed modifications or
-    improvements to the Service (<span dir="rtl">“</span>Feedback”),
-    then you hereby grant Sage an unrestricted, perpetual, irrevocable,
-    non-exclusive, fully-paid, royalty-free right and license to exploit
-    the Feedback in any manner and for any purpose, including to improve
-    the Service and create other products and services. We will have no
-    obligation to provide you with attribution for any Feedback you
-    provide to us.**
-
-    **<u>Ownership; Proprietary Rights. The Service is owned and
+<li>
+    <h3>Ownership; Proprietary Rights.</h3> The Service is owned and
     operated by Sage. The visual interfaces, graphics, design,
     compilation, information, data, computer code (including source code
     or object code), products, software, services, and all other
@@ -259,11 +279,13 @@ access and use of the Service.**
     the property of Sage or its third-party licensors. Except as
     expressly authorized by Sage, you may not make use of the Materials.
     There are no implied licenses in these Terms and Sage reserves all
-    rights to the Materials not granted expressly in these Terms.</u>**
+    rights to the Materials not granted expressly in these Terms.</li>
 
-**<u>Third-Party Terms</u>**
 
-**Third-Party Services and Linked Websites. Sage uses vendors and
+<li>
+<h3>Third-Party Terms</h3>
+<ol>
+<li><h4>Third-Party Services and Linked Websites.</h4> Sage uses vendors and
 hosting partners to provide the necessary hardware, software,
 networking, storage, and related technology required to operate the
 Service, as specified in Sage<span dir="rtl">’</span>s Privacy Policy
@@ -278,18 +300,20 @@ under Sage<span dir="rtl">’</span>s control, and Sage is not responsible
 for their content. Please be sure to review the terms of use and privacy
 policy of any linked websites before you share any User Content or
 information with such third-party websites. Once sharing occurs, Sage
-will have no control over the information that has been shared.**
+will have no control over the information that has been shared.</li>
 
-1.  **Third-Party Software. The Service may include or incorporate
-    third-party software components that are generally available free of
-    charge under licenses granting recipients broad rights to copy,
-    modify, and distribute those components
-    (<span dir="rtl">“</span>Third-Party Components”). Although the
-    Service is provided to you subject to these Terms, nothing in these
-    Terms prevents, restricts, or is intended to prevent or restrict you
-    from obtaining Third-Party Components under the applicable
-    third-party licenses, or to limit your use of Third-Party Components
-    under those third-party licenses.**
+<li><h4>Third-Party Software.</h4> The Service may include or incorporate
+third-party software components that are generally available free of
+charge under licenses granting recipients broad rights to copy,
+modify, and distribute those components
+(<span dir="rtl">“</span>Third-Party Components”). Although the
+Service is provided to you subject to these Terms, nothing in these
+Terms prevents, restricts, or is intended to prevent or restrict you
+from obtaining Third-Party Components under the applicable
+third-party licenses, or to limit your use of Third-Party Components
+under those third-party licenses.</li>
+</ol>
+</li>
 
 **<u>Content</u>**
 
