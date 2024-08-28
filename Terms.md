@@ -101,8 +101,8 @@ TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING
 
 
 <ol>
-    <li>
-        <h3>Sage Service Overview.</h3>
+<li>
+<h3>&nbsp;&nbsp;Sage Service Overview.</h3>
 
 <p>Sage is a non-profit research organization helping researchers
 worldwide do better science together by enabling a collaborative
@@ -110,69 +110,41 @@ approach to information sharing and analysis. We provide the Service to
 users subject to these Terms, including but not limited to access to the
 following:</p>
 
-<ol>
-<li>
-    <p>
-        <strong>Synapse</strong> A computational platform where researchers can share and
+<p><strong>1.1 &nbsp;&nbsp; Synapse</strong>; a computational platform where researchers can share and
 reuse datasets to improve knowledge of health and disease. Sage acts as
 a steward for the content available through Synapse. Synapse users are
 responsible for the data they submit to and/or share through the
 Service. Synapse offers multiple tiers of functionality with different
 restrictions and limitations on types of allowable User Content (as
-defined below in Section 9.3).
-    </p>
-</li>
+defined below in Section 9.3).</p>
 
-<li>
-    <p>
-        <strong>Challenge Platform(s)</strong> Technology platform that supports an
+<p><strong>1.2 &nbsp;&nbsp; Challenge Platform(s)</strong>; a technology platform that supports an
 open-science, collaborative competition framework for evaluating and
-comparing computational algorithms and other ideation inputs.
-    </p>
-</li>
+comparing computational algorithms and other ideation inputs.</p>
 
-<li>
-    <p>
-        <strong>Portals</strong>, knowledge portals are community-specific interfaces that
-enable researchers to explore and share data, analyses, and tools.
-    </p>
-</li>
+<p><strong>1.3 &nbsp;&nbsp; Portals</strong>; community-specific interfaces that
+enable researchers to explore and share data, analyses, and tools.</p>
 
-<li>
-    <p>
-        <strong>Governance and Data Processing</strong>, additional data processing and/or
-governance consulting and implementation provided by Sage staff
-available under specific service plans.
-    </p>
-</li>
+<p><strong>1.4 &nbsp;&nbsp; Governance and Data Processing</strong>; additional data processing and/or
+governance consulting and implementation provided by Sage staff available under specific service plans.</p>
 
-<li>
-    <p>
-        <strong>User Workspaces/Projects</strong>, areas where users can collaborate with
+<p><strong>1.5 &nbsp;&nbsp; User Workspaces/Projects</strong>; areas where users can collaborate with
 each other. Consistent with Section 9.2, users in charge of administering Projects are responsible
-for credentialing any users of such workspace and providing all additional license grants necessary for
-other users to collaborate within the workspace.
-    </p>
-</li>
+for credentialing any users of such workspace and providing all additional license grants
+necessary for other users to collaborate within the workspace.</p>
 
-<li>
-    <p>
-        <strong>Connections to other Platforms</strong>. Consistent with Section 10, Sage
-may provide access to other platforms via application programming
-interfaces (<span dir="rtl">“</span>API”) to allow users to connect to
+<p><strong>1.6 &nbsp;&nbsp; Connections to other Platforms</strong>; consistent with Section 10, Sage may provide access to other platforms via 
+application programming interfaces (<span dir="rtl">“</span>API”) to allow users to connect to
 and utilize User Content in third-party computing platforms and other
 environments, including user-supplied data storage environments. Any use
 of Content (as defined below in Section 9.1) on such third party
 computing platforms or in other environments is subject to any use
 restrictions associated with such User Content. Consistent with Section
-8, any use of third party sites is at the users own risk.
-    </p>
-</li>
+8, any use of third party sites is at the users own risk.</p>
 
-</ol>
 
 <li>
-    <h3>Medical Advice Disclaimer.</h3>
+    <h3>&nbsp;&nbsp; Medical Advice Disclaimer.</h3>
 <p> All Content accessible through the Service is for informational purposes only. Materials (as defined
 below in Section 7) and Content are not a substitute for professional advice on any matter, medical or
 otherwise. Always seek the advice of a qualified health professional. Sage does not recommend or endorse any
@@ -181,7 +153,7 @@ mentioned through the Service.</p>
 </li>
 
 <li>
-    <h3>Eligibility.</h3>
+    <h3>&nbsp;&nbsp; Eligibility.</h3>
 <p>You must be at least 18 years old to use the Service. By agreeing
 to these Terms, you represent and warrant to us that: (a) you are at
 least 18 years old; (b) you are not suspended nor have you been removed
@@ -192,17 +164,15 @@ any and all applicable laws and regulations. If you are an entity,
 organization, or company, the individual accepting these Terms on your
 behalf represents and warrants that they have authority to bind you to
 these Terms and you agree to be bound by these Terms.</p>
+</li>
 
-<li><h3>Account Registration, Training Obligations, and Ongoing Use.</h3>
-<ol>
-    <li>
-<P>
-    <strong>Accounts.</strong>
-<ol>
 <li>
-    <p>
-        <ins>Registration.</ins> You may browse the Public Content (as defined below in
-Section 9.2) catalog and access limited features, but to access most
+    <h3>&nbsp;&nbsp; Account Registration, Training Obligations, and Ongoing Use.</h3>
+
+<strong>4.1.&nbsp;&nbsp; Accounts.</strong>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 4.1(a)&nbsp;&nbsp;<ins>Registration.</ins> You may browse the Public Content 
+(as defined below in Section 9.2) catalog and access limited features, but to access most
 features of the Service, you must register for an account. You can
 register by providing an email address. To access some of the
 functionality, you may be required to provide more information about
@@ -216,29 +186,18 @@ choose a username and create a password (login credentials). You are
 solely responsible for maintaining the confidentiality of your account
 and password, and you accept responsibility for all activities that
 occur under your account. If you believe that your account is no longer
-secure, then you should immediately notify us at act@sagebase.org.
-    </p>
-</li>
-<li>
-    <p>
-        <ins>Suspension.</ins> In addition to suspending an account due to an
+secure, then you should immediately notify us at act@sagebase.org.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;4.1(b)&nbsp;&nbsp;<ins>Suspension.</ins> In addition to suspending an account due to an
 undeliverable email, Sage reserves the right to suspend an account that
 has not been active in 24 months. In order to reactivate such an
 account, you will be required to accept the then current Terms of
 Service and may be required to retake certain training. In the event of
 an account suspension due to inactivity, Sage may delete any User
 Content, in accordance with the applicable User Content Longevity in the
-Offerings page.
-    </p>
-</li>
-</li>
-</ol>
+Offerings page.</p>
 
-
-
-<li>
-<p>
-    <strong>Training Obligations.</strong> In order to be able to access more advanced
+<p><strong>4.2 &nbsp;&nbsp; Training Obligations.</strong> In order to be able to access more advanced
 features on the Service, including the ability to independently
 contribute User Content, you may be required to complete certain
 training to demonstrate your understanding of the ethical, legal, and
@@ -250,35 +209,25 @@ technical issues associated with using the Service, we reserve the right
 to inactivate your account immediately with or without notice to you and
 without any liability to you or any third party, subject to applicable
 law. In the event we terminate your account, you will lose access to any
-Content, which may include User Content you have contributed.
-</p>
-</li>
+Content, which may include User Content you have contributed.</p>
 
-<li>
-    <p><strong>Compliance with Laws.</strong> By using the Service, you affirm, represent,
+<p><strong>4.3 &nbsp;&nbsp; Compliance with Laws.</strong> By using the Service, you affirm, represent,
 and warrant to us that you will only use the Service for legal purposes
 and will not violate any local, state, national, or international law,
 regulation, including all privacy laws and regulations, or order of any
 governmental authority in any jurisdiction.</p></li>
-</ol>
 
 <li>
-<h3>Payment Terms.</h3>
-<ol>
-<li>
-    <p>
-        <strong>General Payment Terms.</strong> Certain features of the Service may require you
+<h3>&nbsp;&nbsp; Payment Terms.</h3>
+
+<p><strong>5.1 &nbsp;&nbsp; General Payment Terms.</strong> Certain features of the Service may require you
 to pay fees. Before you pay any fees, you will have an opportunity to
 review and accept the fees that you will be charged. All fees are in
 U.S. Dollars and are non-refundable unless otherwise specifically
 provided for in these Terms. All payments are due within 30 days of
-invoice unless otherwise agreed to by Sage.
-    </p>
-</li>
-    
-<li>
-    <p>
-        <strong>Price.</strong> Sage reserves the right to determine pricing for the
+invoice unless otherwise agreed to by Sage.</p>
+
+<p><strong>5.2 &nbsp;&nbsp; Price.</strong> Sage reserves the right to determine pricing for the
 Service. Sage will make reasonable efforts to keep published pricing
 information on the Service up to date. We encourage you to check our
 pricing page periodically for current menu pricing information. Sage
@@ -288,51 +237,38 @@ changes before they apply. Sage, at its sole discretion, may make
 promotional offers with different features and different pricing to
 any of Sage<span dir="rtl">’</span>s customers. These promotional
 offers, unless made to you, will not apply to your offer or these
-Terms.
-    </p>
-</li>
+Terms.</p>
 
-<li>
-    <p><strong>Authorization.</strong> You authorize Sage to charge all sums for the
+<p><strong>5.3 &nbsp;&nbsp; Authorization.</strong> You authorize Sage to charge all sums for the
 orders that you make and any level of Service you select as
 described in these Terms or published by Sage, including all
 applicable taxes, to the payment method specified by Sage. If you
 pay any fees with a credit card, then Sage may seek
 pre-authorization of your credit card account prior to your purchase
 to verify that the credit card is valid and has the necessary funds
-or credit available to cover your purchase.</p></li>
+or credit available to cover your purchase.</p>
 
-<li>
-<p>
-    <strong>Delinquent Accounts.</strong> Sage may suspend or terminate access to the
+
+<p><strong>5.4 &nbsp;&nbsp; Delinquent Accounts.</strong> Sage may suspend or terminate access to the
 Service, including fee-based portions of the Service, for any
 account for which any amount is due but unpaid. In addition to the
 amount due for the Service, a delinquent account will be charged
 with fees or charges that are incidental to any chargeback or
-collection of any unpaid amount, including collection fees.
-</p>
+collection of any unpaid amount, including collection fees.</p>
 </li>
-
-</li>
-</ol>
 
     
-<li><h3>Licenses</h3>
-<ol>
 <li>
-    <p>
-        <strong>Limited License.</strong> Subject to your complete and ongoing compliance with
+    <h3>&nbsp;&nbsp; Licenses</h3>
+
+<p><strong>6.1 &nbsp;&nbsp; Limited License.</strong> Subject to your complete and ongoing compliance with
 these Terms, Sage grants you a limited, non-exclusive, non-transferable,
 non-sublicensable, revocable license to: (a) install and use one object
 code copy of any mobile or other downloadable application associated
 with the Service on a mobile device that you own or control; and (b)
-access and use of the Service.
-    </p>
-</li>
+access and use of the Service.</p>
 
-<li>
-    <p>
-        <strong>License Restrictions.</strong> Except and solely to the extent that such a
+<p><strong>6.2 &nbsp;&nbsp; License Restrictions.</strong> Except and solely to the extent that such a
 restriction is impermissible under applicable law, or explicitly
 allowed elsewhere under these Terms, you may not: (a) reproduce,
 distribute, publicly display, publicly perform, or create derivative
@@ -340,12 +276,9 @@ works of the Service; (b) make modifications to the Service; or (c)
 interfere with or circumvent any feature of the Service, including
 any security or access control mechanism. If you are prohibited
 under applicable law from using the Service, then you may not use
-it.
-    </p>
-</li>
+it.</p>
 
-<li>
-    <p><strong>Feedback.</strong> We respect and appreciate the thoughts and comments from
+<p><strong>6.3 &nbsp;&nbsp; Feedback.</strong> We respect and appreciate the thoughts and comments from
 our users. If you choose to provide input and suggestions regarding
 existing functionalities, problems with or proposed modifications or
 improvements to the Service (<span dir="rtl">“</span>Feedback”),
@@ -354,31 +287,26 @@ non-exclusive, fully-paid, royalty-free right and license to exploit
 the Feedback in any manner and for any purpose, including to improve
 the Service and create other products and services. We will have no
 obligation to provide you with attribution for any Feedback you
-provide to us.
-    </p>
+provide to us.</p>
 </li>
-  </li>  
-</ol>
+  
 
 <li>
-    <h3>Ownership; Proprietary Rights.</h3> The Service is owned and
-    operated by Sage. The visual interfaces, graphics, design,
-    compilation, information, data, computer code (including source code
-    or object code), products, software, services, and all other
-    elements of the Service provided by Sage
-    (<span dir="rtl">“</span>Materials”) are protected by intellectual
-    property and other laws. All Materials included in the Service are
-    the property of Sage or its third-party licensors. Except as
-    expressly authorized by Sage, you may not make use of the Materials.
-    There are no implied licenses in these Terms and Sage reserves all
-    rights to the Materials not granted expressly in these Terms.</li>
+<h3>&nbsp;&nbsp; Ownership; Proprietary Rights.</h3> The Service is owned and
+operated by Sage. The visual interfaces, graphics, design, compilation, information, data,
+computer code (including source code or object code), products, software, services, and all other
+elements of the Service provided by Sage (<span dir="rtl">“</span>Materials”) are protected by intellectual
+property and other laws. All Materials included in the Service are
+the property of Sage or its third-party licensors. Except as
+expressly authorized by Sage, you may not make use of the Materials.
+There are no implied licenses in these Terms and Sage reserves all
+rights to the Materials not granted expressly in these Terms.</li>
 
 
 <li>
-<h3>Third-Party Terms</h3>
-<ol>
-<li>
-    <p><strong>Third-Party Services and Linked Websites.</strong> Sage uses vendors and
+<h3>&nbsp;&nbsp; Third-Party Terms</h3>
+
+<p><strong>8.1 &nbsp;&nbsp; Third-Party Services and Linked Websites.</strong> Sage uses vendors and
 hosting partners to provide the necessary hardware, software,
 networking, storage, and related technology required to operate the
 Service, as specified in Sage<span dir="rtl">’</span>s Privacy Policy
@@ -393,13 +321,9 @@ under Sage<span dir="rtl">’</span>s control, and Sage is not responsible
 for their content. Please be sure to review the terms of use and privacy
 policy of any linked websites before you share any User Content or
 information with such third-party websites. Once sharing occurs, Sage
-will have no control over the information that has been shared.
-    </p>
-</li>
+will have no control over the information that has been shared.</p>
 
-<li>
-    <p>
-        <strong>Third-Party Software.</strong> The Service may include or incorporate
+<p><strong>8.2 &nbsp;&nbsp; Third-Party Software.</strong> The Service may include or incorporate
 third-party software components that are generally available free of
 charge under licenses granting recipients broad rights to copy,
 modify, and distribute those components
@@ -408,18 +332,13 @@ Service is provided to you subject to these Terms, nothing in these
 Terms prevents, restricts, or is intended to prevent or restrict you
 from obtaining Third-Party Components under the applicable
 third-party licenses, or to limit your use of Third-Party Components
-under those third-party licenses.
-    </p>
-</li>
-</ol>
+under those third-party licenses.</p>
 </li>
 
 <li>
-    <h3>Content</h3>
-<ol>
-<li>
-    <p>
-        <strong>General Content.</strong> General Content is available to users subject to any Content
+    <h3>&nbsp;&nbsp; Content</h3>
+
+<p><strong>9.1 &nbsp;&nbsp; General Content.</strong> General Content is available to users subject to any Content
 specific restrictions, e.g., user training, controlled access, limited
 use, Content redistribution limitations, as determined by the Content
 contributor and implemented by the Project Administrator (as defined
@@ -431,13 +350,9 @@ or non-human sources (“<ins><strong>Data</strong></ins>”), Software is
 defined as any algorithms, tools, and other software code in source or
 object form ("<ins><strong>Software</strong></ins>”). Any other information
 and content along with Data and Software are collectively referred to in
-these Terms as “<ins><strong>Content”</strong></ins>.
-    </p>
-</li>
+these Terms as “<ins><strong>Content”</strong></ins>.</p>
 
-<li>
-    <p>
-    <strong> Project Administration.</strong> In using the Service, you may create Content and collaborate
+<p><strong> 9.2 &nbsp;&nbsp; Project Administration.</strong> In using the Service, you may create Content and collaborate
 on Projects with other users. By default, a Project is associated with the user that created it 
 (a “<ins><strong>Project Administrator</strong></ins>”). A Project Administrator may grant administrative
 privileges to other users to change the sharing, editing, and visibility settings of its Projects as another
@@ -459,13 +374,9 @@ representations or warranties in this regard. If you are a Project
 Administrator, you are responsible for credentialing any users and
 providing any additional license grants necessary to other users of such
 Projects, as appropriate for such User Content or as required by
-applicable law.
-</p>
-</li>
+applicable law.</p>
 
-<li>
-<p>
-    <strong>User Content Generally.</strong> Certain features of the Service may permit
+<p><strong>9.3 &nbsp;&nbsp; User Content Generally.</strong> Certain features of the Service may permit
 users to submit, upload, publish, broadcast, or otherwise transmit
 and make available to other users ("<ins><strong>Post</strong></ins>”)
 Content. Any Content that is Posted by any user of the Service
@@ -473,21 +384,17 @@ Content. Any Content that is Posted by any user of the Service
 referred to in these Terms as "<ins><strong>User Content</strong></ins>.”
 You retain any copyright and other proprietary rights that you may
 hold in the User Content that you Post to the Service, subject to
-the licenses granted in these Terms.
-</p>
-</li>
+the licenses granted in these Terms.</p>
 
-<li>
-    <p><strong>Compliance with Data Processing Requirements.</strong> If you Post User
+<p><strong>9.4 &nbsp;&nbsp; Compliance with Data Processing Requirements.</strong> If you Post User
 Content, you warrant that your Posting and any subsequent sharing of
 User Content through the Service will comply with all applicable
 regulations including, subject to Section 9.8(c) below, for User
 Content that contains personal data, all data protection or privacy
 laws applicable to the processing of personal data in the
-jurisdiction where the personal data was collected.</p></li>
+jurisdiction where the personal data was collected.</p>
 
-<li>
-    <p><strong>User Content Restrictions.</strong> You must identify any risks and provide
+<p><strong>9.5 &nbsp;&nbsp; User Content Restrictions.</strong> You must identify any risks and provide
 appropriate protections prior to your Posting the User Content. You
 can submit User Content to be shared under restricted conditions at
 your discretion, or when required by informed consent, legal
@@ -503,10 +410,9 @@ redistribution, repeatedly imposing unwarranted User Content
 restrictions, lack of authority of the user to Post given User
 Content, and uploading User Content with personally identifiable
 information (e.g., not properly de-identified) without
-authorization.</p></li>
+authorization.</p>
 
-<li>
-    <p><strong>Limited License for Public Content.</strong> By Posting Public Content to
+<p><strong>9.6 &nbsp;&nbsp; Limited License for Public Content.</strong> By Posting Public Content to
 or via the Service, you grant the licenses set forth in this Section
 9.6. All of the rights you grant in these Terms are provided on a
 through-to-the-audience basis, meaning the owners or operators of
@@ -515,13 +421,9 @@ other third party for Public Content Posted, or otherwise used on
 external services via the Service. You agree to pay all monies owing
 to any person or entity resulting from Posting your Public Content
 and/or Sage<span dir="rtl">’</span>s exercise of the licenses set
-forth in this Section 9.6.</p></li>
+forth in this Section 9.6.</p>
 
-<ol>
-<li>
-
-<p>
-    <ins>To Users.</ins> By Posting Public Content to or via the Service, you grant
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.6 (a) &nbsp;&nbsp; <ins>To Users.</ins> By Posting Public Content to or via the Service, you grant
 all users of the Service, subject to any User Content restrictions
 you provide, a license to such Public Content pursuant to (i) the
 Creative Commons BY 4.0 License for any data included in your Public
@@ -533,11 +435,9 @@ applicable. If at any time you make all or portions of your Public
 Content private, users who have relied on the license granted in
 this Section 9.6(a) shall maintain all rights granted pursuant to
 such license and shall be able to continue to use such User Content
-in accordance with the license.</p></li>
+in accordance with the license.</p>
 
-<li> 
-    <p>
-    <ins>To Sage.</ins> In addition to the license in Section 9.6(a) above, by
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.6 (b)&nbsp;&nbsp; <ins>To Sage.</ins> In addition to the license in Section 9.6(a) above, by
 Posting Public Content to or via the Service, you grant Sage, our
 legal successor and assignees, a worldwide, non-exclusive,
 irrevocable, royalty-free, fully paid right and license (with the
@@ -560,14 +460,9 @@ store and archive your Public Content in public repositories. If at
 any time you make all or portions of your Public Content private,
 Sage shall maintain all rights under the license granted in this
 Section 9.6(b) and shall be able to continue to use such User
-Content in accordance with such license.
-    </p>
-</li>
-</ol>
-</li>
+Content in accordance with such license.</p>
 
-<li>
-<p><strong>Limited License for Private Content.</strong>s To the extent you authorize
+<p><strong>9.7 &nbsp;&nbsp; Limited License for Private Content.</strong>s To the extent you authorize
 another user to access your Private Content (with respect to the
 license granted to such other users) or Post Private Content to or
 via the Service (with respect to the licenses granted to Sage), you
@@ -579,27 +474,18 @@ other third party for Private Content Posted or otherwise used on
 external services via the Service. You agree to pay all monies owing
 to any person or entity resulting from Posting your Private Content
 and/or Sage<span dir="rtl">’</span>s exercise of the licenses set
-forth in this Section 9.7.
-</p>
-</li>
-<ol>
+forth in this Section 9.7.</p>
 
-<li>
-    <p>
-<ins>To Users.</ins> By authorizing other users to access your Private
+<p>&nbsp;&nbsp;&nbsp;&nbsp;9.7 (a)&nbsp;&nbsp; <ins>To Users.</ins> By authorizing other users to access your Private
 Content, you grant such users, subject to any User Content
 restrictions, a worldwide, non-exclusive, irrevocable, royalty-free,
 fully paid right and license (with the right to sublicense through
 multiple tiers) to view, access, store, transfer, display, process,
 and use in their work, in whole or in part, in any media formats and
 through any media channels, in each instance whether now known or
-hereafter developed. \[insert link to open source license\].
-    </p>
-</li>
+hereafter developed. \[insert link to open source license\].</p>
 
-<li>
-<p>
-    <ins>To Sage.</ins> By Posting Private Content to or via the Service, you
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.7 (b) &nbsp;&nbsp; <ins>To Sage.</ins> By Posting Private Content to or via the Service, you
 grant Sage, our legal successor and assigns, a worldwide,
 non-exclusive, irrevocable, royalty-free, fully paid right and
 license (with the right to sublicense through multiple tiers) to
@@ -611,14 +497,9 @@ channels, in each instance whether now known or hereafter developed
 solely for the purposes of providing the Service, improving the
 Service, creating new products and services, providing customer
 support, troubleshooting, metric collection, billing, and/or
-auditing.
-</p>
-</li>
-</ol>
-    
-<li>
-<p>
-    <strong>You Must Have Rights to the Content You Post;</strong> User Content
+auditing.</p>
+
+<p><strong>9.8. &nbsp;&nbsp; You Must Have Rights to the Content You Post;</strong> User Content
 Representations and Warranties. You must not Post User Content if
 you are not the owner of or are not fully authorized to grant rights
 in all of the elements of that User Content. Sage disclaims any and
@@ -627,167 +508,122 @@ responsible for your User Content and the consequences of providing
 User Content via the Service. By providing User Content via the
 Service, you affirm, represent, and warrant to us that:
 </p>
-</li>
-    
-<ol>
-    <li>
-    <p>you are the creator and owner of the User Content, or have the
-    necessary licenses, rights, consents, and permissions to Post and to
-    authorize Sage and users of the Service to use and distribute your
-    User Content as necessary to exercise the licenses granted by you in
-    this Section 9 (Content), in the manner contemplated by Sage, the
-    Service, and these Terms;</p>
-    </li>
-    
-<li>
-    <p>your User Content, and the Posting or other use of your User Content
-    as contemplated by these Terms, does not and will not: (i) infringe,
-    violate, misappropriate, or otherwise breach any third-party right,
-    including any copyright, trademark, patent, trade secret, moral
-    right, privacy right, right of publicity, or any other intellectual
-    property, contract, or proprietary right; (ii) slander, defame,
-    libel, or invade the right of privacy, publicity or other property
-    rights of any other person; or (iii) cause Sage to violate any law
-    or regulation or require us to obtain any further licenses from or
-    pay any royalties, fees, compensation or other amounts or provide
-    any attribution to any third parties;</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.8 (a) &nbsp;&nbsp; you are the creator and owner of the User Content, or have the
+ necessary licenses, rights, consents, and permissions to Post and to
+authorize Sage and users of the Service to use and distribute your
+User Content as necessary to exercise the licenses granted by you in
+this Section 9 (Content), in the manner contemplated by Sage, the
+Service, and these Terms;</p>
+ 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;9.8 (b) &nbsp;&nbsp; your User Content, and the Posting or other use of your User Content
+as contemplated by these Terms, does not and will not: (i) infringe,
+violate, misappropriate, or otherwise breach any third-party right,
+including any copyright, trademark, patent, trade secret, moral
+right, privacy right, right of publicity, or any other intellectual
+property, contract, or proprietary right; (ii) slander, defame,
+libel, or invade the right of privacy, publicity or other property
+rights of any other person; or (iii) cause Sage to violate any law
+or regulation or require us to obtain any further licenses from or
+pay any royalties, fees, compensation or other amounts or provide
+any attribution to any third parties;</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;9.8 (c) &nbsp;&nbsp; unless otherwise agreed with Sage, your User Content does not
+contain any Protected Health Information (PHI) as defined in
+accordance with the Health Insurance Portability and Accountability
+Act of 1996 and its implementing regulations, as amended
+(<span dir="rtl">“</span>HIPAA”), (ii) unless otherwise agreed with
+Sage, your User Content is not subject to the data protection laws
+of the European Economic Area (<span dir="rtl">“</span>EEA”),
+including the General Data Protection Regulation (EU) 2016/679, the
+United Kingdom, or Switzerland, and (iii) you are not subject to the
+NIS 2 Directive (EU) 2022/2555;</p>
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;9.8 (d) &nbsp;&nbsp; where required, you have obtained any and all specific, informed and
+freely given consents, waivers, authorizations and/or institutional
+or independent review board (IRB) approvals necessary to provide the
+ User Content for use on the Service, as applicable;</p> 
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;9.8 (e) &nbsp;&nbsp; your User Content could not be deemed by a reasonable person to be
+objectionable, profane, indecent, pornographic, harassing,
+threatening, embarrassing, hateful, or otherwise inappropriate; and </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;9.8 (f) &nbsp;&nbsp; you agree to support open access open practices with respect to your
+User Content and make it available without restrictions when
+possible in furtherance of Sage<span dir="rtl">’</span>s mission to
+facilitate better science by enabling collaborative information
+sharing and analysis.</p>
+
+<p><strong>9.9 &nbsp;&nbsp; User Content Disclaimer.</strong> We are under no obligation to edit or
+control User Content that you or other users Post and will not be in any way responsible or liable for 
+User Content or other users<span dir="rtl">’</span> use of User Content. You understand
+that, when using the Service, you will be exposed to User Content
+from a variety of sources and acknowledge that you may find User
+Content to be inaccurate, offensive, indecent, or objectionable. You
+agree to waive, and do waive, any legal or equitable right or remedy
+you have or may have against Sage with respect to User Content. If
+notified by a user or content owner that User Content allegedly does
+not conform to these Terms, we may investigate the allegation and
+determine in our sole discretion whether to remove the User Content, which we reserve the right
+to do at any time and without notice. For clarity, Sage does not permit infringing activities on the Service.
+In addition, Sage may but is under no obligation to seek the opinion
+of an independent ethics team or accredited IRB to confirm the User
+Content contributor<span dir="rtl">’</span>s selection of the User
+Content restrictions. In these cases, Sage can request, and the User
+Content contributor must provide, the (English-translated) templates
+of the informed consent document or the protocol governing the User
+Content in replacement of an IRB decision.</p>
+
+<p><strong>9.10. &nbsp;&nbsp; Use of User Content.</strong> If you publish, present or otherwise disclose
+User Content, derivatives of User Content, or results from analysis
+of User Content, you must properly attribute the source of the User
+Content. Your use of User Content must comply with any applicable
+additional User Content restrictions. Use of User Content, including
+but not limited to any Data or Software, is at your own risk.</p>
+
+<p><strong>9.11. &nbsp;&nbsp; Monitoring.</strong> Sage has the right but not the obligation to monitor
+the use and activities of the Service. Sage may, however, at any
+time and without prior notice, monitor any and all User Content
+Posted to and transmitted through the Service, or screen, remove,
+edit, block, or disable access to any User Content or a
+user<span dir="rtl">’</span>s access to the Service that in our sole
+judgment violates these Terms, is alleged to violate the rights of
+third parties, or is otherwise objectionable without any liability
+to the user who Posted such User Content to the Service or to any
+other users of the Service. Sage may share the results of the
+monitoring with third parties.</p>
+
+<p><strong>9.12 &nbsp;&nbsp; Reporting Misuse of the Service.</strong> You shall report any suspected misuse of the Service, including, but not limited to, Data breach, Data misuse, violation of User
+Content restrictions, lack of data accreditation, unethical data handling, and violation of these Terms, to privacyofficer@sagebase.org within 2 business days of initial incident
+knowledge.</p>
 </li>
 
 <li>
-   <p>unless otherwise agreed with Sage, your User Content does not
-    contain any Protected Health Information (PHI) as defined in
-    accordance with the Health Insurance Portability and Accountability
-    Act of 1996 and its implementing regulations, as amended
-    (<span dir="rtl">“</span>HIPAA”), (ii) unless otherwise agreed with
-    Sage, your User Content is not subject to the data protection laws
-    of the European Economic Area (<span dir="rtl">“</span>EEA”),
-    including the General Data Protection Regulation (EU) 2016/679, the
-    United Kingdom, or Switzerland, and (iii) you are not subject to the
-    NIS 2 Directive (EU) 2022/2555;
-   </p>
-</li>
+<h3>API Terms.</h3> We may offer users the ability to access User
+Content via an API. Any use of the API, including use of the API
+through a third-party product that accesses the Service, is bound by
+these Terms plus the following specific terms:</li>
 
-<li>
-   <p>where required, you have obtained any and all specific, informed and
-    freely given consents, waivers, authorizations and/or institutional
-    or independent review board (IRB) approvals necessary to provide the
-    User Content for use on the Service, as applicable;</p> 
-</li>
-
-<li>
-    <p>your User Content could not be deemed by a reasonable person to be
-    objectionable, profane, indecent, pornographic, harassing,
-    threatening, embarrassing, hateful, or otherwise inappropriate; and </p>
-</li>
-
-<li>
-    <p>you agree to support open access open practices with respect to your
-    User Content and make it available without restrictions when
-    possible in furtherance of Sage<span dir="rtl">’</span>s mission to
-    facilitate better science by enabling collaborative information
-    sharing and analysis.</p>
-</li>
-
-</ol>
-</li>
-
-<li>
-    <p>
-    <strong>User Content Disclaimer.</strong> We are under no obligation to edit or
-    control User Content that you or other users Post and will not be in
-    any way responsible or liable for User Content or other
-    users<span dir="rtl">’</span> use of User Content. You understand
-    that, when using the Service, you will be exposed to User Content
-    from a variety of sources and acknowledge that you may find User
-    Content to be inaccurate, offensive, indecent, or objectionable. You
-    agree to waive, and do waive, any legal or equitable right or remedy
-    you have or may have against Sage with respect to User Content. If
-    notified by a user or content owner that User Content allegedly does
-    not conform to these Terms, we may investigate the allegation and
-    determine in our sole discretion whether to remove the User Content,
-    which we reserve the right to do at any time and without notice. For
-    clarity, Sage does not permit infringing activities on the Service.
-    In addition, Sage may but is under no obligation to seek the opinion
-    of an independent ethics team or accredited IRB to confirm the User
-    Content contributor<span dir="rtl">’</span>s selection of the User
-    Content restrictions. In these cases, Sage can request, and the User
-    Content contributor must provide, the (English-translated) templates
-    of the informed consent document or the protocol governing the User
-    Content in replacement of an IRB decision.
-    </p>
-</li>
-    
-<li>
-    <p>
-    <strong>Use of User Content.</strong> If you publish, present or otherwise disclose
-    User Content, derivatives of User Content, or results from analysis
-    of User Content, you must properly attribute the source of the User
-    Content. Your use of User Content must comply with any applicable
-    additional User Content restrictions. Use of User Content, including
-    but not limited to any Data or Software, is at your own risk.
-    </p>
-</li>
-
-<li>
-<p>
-    <strong>Monitoring.</strong> Sage has the right but not the obligation to monitor
-    the use and activities of the Service. Sage may, however, at any
-    time and without prior notice, monitor any and all User Content
-    Posted to and transmitted through the Service, or screen, remove,
-    edit, block, or disable access to any User Content or a
-    user<span dir="rtl">’</span>s access to the Service that in our sole
-    judgment violates these Terms, is alleged to violate the rights of
-    third parties, or is otherwise objectionable without any liability
-    to the user who Posted such User Content to the Service or to any
-    other users of the Service. Sage may share the results of the
-    monitoring with third parties.
-</p>
-</li>
-
-<li>
-    <p>
-    <strong>Reporting Misuse of the Service.</strong> You shall report any suspected misuse of the Service, including, but not limited to, Data breach, Data misuse, violation of User
-    Content restrictions, lack of data accreditation, unethical data handling, and violation of these Terms, to privacyofficer@sagebase.org within 2 business days of initial incident
-    knowledge.
-    </p>
-</li>
-
-</ol>
-</li>
-
-<li>
-    <h3>API Terms.</h3> We may offer users the ability to access User
-    Content via an API. Any use of the API, including use of the API
-    through a third-party product that accesses the Service, is bound by
-    these Terms plus the following specific terms:</li>
-<ol>
-    
-<li>
- <p>only users who are permitted to Post User Content will be allowed to use any API functions related to User Content
+<p>&nbsp;&nbsp;&nbsp;&nbsp; (a)&nbsp;&nbsp;&nbsp;&nbsp; only users who are permitted to Post User Content will be allowed to use any API functions related to User Content
 contribution or other advanced features that we may offer from time to time;</p>
-</li>
-<li>
-<p>abuse or excessively frequent requests to the Service via any
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; (b)&nbsp;&nbsp;&nbsp;&nbsp;abuse or excessively frequent requests to the Service via any
 API (as determined by us in our sole discretion) may result in
 the temporary or permanent suspension of your
 account access to the API;</p>
-</li>
 
-<li>
-<p>you must not access or use the API through any technology or
+<p>&nbsp;&nbsp;&nbsp;&nbsp; (c) &nbsp;&nbsp;&nbsp;&nbsp;you must not access or use the API through any technology or
 means other than those provided in the Service or through other
 explicitly authorized means we may designate. You must not hide
 or mask from us your identity as it accesses User Content using
 the API;</p>
-</li>
 
-<li>
-<p>we reserve the right at any time to modify or discontinue,
+<p>&nbsp;&nbsp;&nbsp;&nbsp; (d)&nbsp;&nbsp;&nbsp;&nbsp; we reserve the right at any time to modify or discontinue,
 temporarily or permanently, your access to the API (or any part
 thereof) with or without notice; and</p></li>
 
-<li>
-    <p>without limiting the generality of the foregoing in this Section
+<p>&nbsp;&nbsp;&nbsp;&nbsp; (e)&nbsp;&nbsp;&nbsp;&nbsp; without limiting the generality of the foregoing in this Section
 10 (API Terms), subject to applicable law, you expressly
 understand and agree that we will not be liable for any losses
 or direct, indirect, incidental, special, consequential or
@@ -800,14 +636,12 @@ foreseeable by us at the time you agreed to these Terms),
 resulting from your use of or inability to use the API, or any
 third-party code or products that access User Content via the
 API.</p>
-</li>
-</ol>
+
 
 <li>
 <h3>Communications.</h3>
-<ol>
-<li>
-<p><strong>Text Messaging & Phone Calls.</strong> You agree that Sage and those acting on
+
+<p><strong>11.1 &nbsp;&nbsp; Text Messaging & Phone Calls.</strong> You agree that Sage and those acting on
 our behalf may call and send you text (SMS) messages at the phone number
 you provide us. These calls and messages may include operational calls
 or messages about your use of the Service, as well as marketing calls or
@@ -826,83 +660,79 @@ continue to receive calls and text messages for a short period while we
 process your request, including a message confirming the receipt of your
 opt-out request. Your agreement to receive marketing calls and texts is
 not a condition of any purchase on or use of the Service.</p>
-</li>
 
-<li>
-<p><strong>Email.</strong> We may send you emails concerning our products and
+<p><strong>11.2 &nbsp;&nbsp; Email.</strong> We may send you emails concerning our products and
 services, as well as those of third parties. You may opt out of
 promotional emails by following the unsubscribe instructions in the
 promotional email itself.</p>
 </li>
-</ol>
-</li>
 
 <li>
-**<u>Prohibited Conduct. BY USING THE SERVICE, YOU AGREE NOT TO:</u>**
+<h3>Prohibited Conduct. BY USING THE SERVICE, YOU AGREE NOT TO:</h3>
 
-**use the Service for any illegal purpose or in violation of any local,
+<p><strong> 12.1 &nbsp;&nbsp; </strong>use the Service for any illegal purpose or in violation of any local,
 state, national, or international law, regulation, including all
 antitrust laws and privacy laws and regulations, or order of any
-governmental authority in any jurisdiction;**
+governmental authority in any jurisdiction;</p>
 
-**use the Service in a manner that is harmful, harassing, defamatory,
+<p>12.2 &nbsp;&nbsp; use the Service in a manner that is harmful, harassing, defamatory,
 threatening, vulgar, sexually explicit, hateful, unethical,
 irresponsible, or otherwise objectionable or that can cause harm or
-delay to the Service or computers or networks of any kind;**
+delay to the Service or computers or networks of any kind;</p>
 
-**use the Service in a manner that violates our community principles;
+<p>12.3 &nbsp;&nbsp; use the Service in a manner that violates our community principles;
 these community principles include welcoming others, using inclusive
 language, sharing knowledge and experience, respecting other viewpoints
 and ideas, and showing empathy and kindness when interacting with
-others;**
+others;</p>
 
-**unless otherwise agreed with Sage, contribute any User Content that is
+<p>12.4 &nbsp;&nbsp; unless otherwise agreed with Sage, contribute any User Content that is
 (i) directly identifiable as defined by the HIPAA Privacy Rule and all
 applicable privacy laws and regulations, (ii) subject to the data
 protection laws of the EEA, including the General Data Protection
-Regulation (EU) 2016/679, the United Kingdom, or Switzerland;**
+Regulation (EU) 2016/679, the United Kingdom, or Switzerland;</p>
 
-**publish, present or otherwise disclose User Content or results from
+<p>12.5 &nbsp;&nbsp; publish, present or otherwise disclose User Content or results from
 analysis of User Content obtained through the Service without properly
 attributing the User Content source or using the User Content in a
-manner inconsistent with any User Content restrictions;**
+manner inconsistent with any User Content restrictions;</p>
 
-**Post any User Content that is licensed under a Copyleft license or any
-other viral open source license;**
+<p>12.6 &nbsp;&nbsp; Post any User Content that is licensed under a Copyleft license or any
+other viral open source license;</p>
 
-**redistribute User Content in a manner that fails to comply with any
+<p>12.7 &nbsp;&nbsp; redistribute User Content in a manner that fails to comply with any
 provision of these Terms and any User Content restrictions; without
 limiting the generality of the foregoing, you may be permitted to
 redistribute User Content, but solely to the extent that you have
 assurances that all subsequent recipients comply with these Terms, the
 Privacy Policy \[insert link to Privacy Policy\], as well as any
-additional User Content restrictions;**
+additional User Content restrictions;</p>
 
-**use or attempt to use the User Content to harm, marginalize, or
+<p>12.8 &nbsp;&nbsp; use or attempt to use the User Content to harm, marginalize, or
 discriminate against individuals or populations, whether in insurance,
-employment, or other manners;**
+employment, or other manners;</p>
 
-**identify, or make any attempt to identify, any individuals to which
-any User Content pertains;**
+<p>12.9 &nbsp;&nbsp; identify, or make any attempt to identify, any individuals to which
+any User Content pertains</p>
 
-**violate, encourage others to violate, or provide instructions on how
+<p>12.10 &nbsp;&nbsp; violate, encourage others to violate, or provide instructions on how
 to violate, any right of a third party, including by infringing or
-misappropriating any third-party intellectual property right;**
+misappropriating any third-party intellectual property right;</p>
 
-**access, search, or otherwise use any portion of the Service through
+<p>12.11 &nbsp;&nbsp; access, search, or otherwise use any portion of the Service through
 the use of any engine, software, tool, agent, device, or mechanism
 (including spiders, robots, crawlers, and data mining tools) other than
-the software or search agents provided by Sage;**
+the software or search agents provided by Sage;</p>
 
-**interfere with security-related features of the Service, including by:
+<p>12.12 &nbsp;&nbsp; interfere with security-related features of the Service, including by:
 (i) failing to keep your login information secure and/or sharing it with
 others; (ii) disabling or circumventing features that prevent or limit
 use, printing or copying of any Content; or (iii) reverse engineering or
 otherwise attempting to discover the source code of any portion of the
 Service except to the extent that the activity is expressly permitted by
-applicable law;**
+applicable law;</p>
 
-**interfere with the operation of the Service or any
+<p>12.13 &nbsp;&nbsp; interfere with the operation of the Service or any
 user<span dir="rtl">’</span>s enjoyment of the Service, including by:
 (i) uploading or otherwise disseminating any virus, adware, spyware,
 worm, or other malicious code; (ii) uploading or otherwise transmitting
@@ -910,206 +740,209 @@ an unsolicited or unauthorized advertising, promotional materials, junk
 mail, spam, or any other form of solicitation (commercial or otherwise);
 (iii) collecting personal data about another user or third party without
 consent; or (iv) interfering with or disrupting any network, equipment,
-or server connected to or used to provide the Service;**
+or server connected to or used to provide the Service;</p>
 
-**perform any fraudulent activity including impersonating any person or
+<p>12.14 &nbsp;&nbsp; perform any fraudulent activity including impersonating any person or
 entity, claiming a false affiliation or identity, accessing any other
 Service account without permission, employing fraudulent means to pass
-the training obligations, or falsifying your age;**
+the training obligations, or falsifying your age;</p>
 
-**reproduce, distribute, publicly display, publicly perform, sell,
+<p>12.15 &nbsp;&nbsp; reproduce, distribute, publicly display, publicly perform, sell,
 trade, transfer, resell or exploit any portion of the Service, use of
 the Service, access to the Service granted under these Terms, or any
 Materials obtained through the Service, for any purpose other than
 expressly permitted by these Terms, including, by way of example and not
 limitation, by doing or engaging in any of the following without our
-express written consent:**
+express written consent:</p>
 
-framing, embedding and/or passing off Materials obtained from the
-Service in such a manner as to present it as originating from a source
-other than the Service;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; framing, embedding and/or passing off Materials obtained from the
+Service in such a manner as to present it as originating from a source other than the Service;</p>
 
-altering or bypassing any software or other mechanisms through which the
-Service or any of its Materials are made available; or
+<p>&nbsp;&nbsp;&nbsp;&nbsp; (b) &nbsp;&nbsp;&nbsp;&nbsp; altering or bypassing any software or other mechanisms through which the
+Service or any of its Materials are made available; or</p>
 
-using any trademarks, service marks, design marks, logos, photographs or
-other Content belonging to us or obtained from the Service;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(c) &nbsp;&nbsp;&nbsp;&nbsp; using any trademarks, service marks, design marks, logos, photographs or
+other  Content belonging to us or obtained from the Service;</p>
 
-**restrict, discourage, or inhibit any person from using the Service;**
+<p>12.16 &nbsp;&nbsp; restrict, discourage, or inhibit any person from using the Service;</p>
 
-1.  **use excessive bandwidth, whether through
-    Sage<span dir="rtl">’</span>s API or otherwise, and as determined by
-    us in our sole discretion, on the Service (if your bandwidth usage
-    significantly exceeds the average bandwidth usage of other users of
-    the Service, as determined by us in our sole discretion, we reserve
-    the right to immediately disable your account or throttle your file
-    hosting until you can reduce your bandwidth consumption); or**
+<p>12.17 &nbsp;&nbsp; use excessive bandwidth, whether through
+Sage<span dir="rtl">’</span>s API or otherwise, and as determined by
+us in our sole discretion, on the Service (if your bandwidth usage
+significantly exceeds the average bandwidth usage of other users of
+the Service, as determined by us in our sole discretion, we reserve
+the right to immediately disable your account or throttle your file
+hosting until you can reduce your bandwidth consumption); or</p>
 
 <!-- -->
 
-1.  **attempt to do any of the acts described in this Section 12
+<p>12.18 &nbsp;&nbsp; attempt to do any of the acts described in this Section 12
     (Prohibited Conduct) or assist or permit any person in engaging in
-    any of the acts described in this Section 12 (Prohibited Conduct).**
+    any of the acts described in this Section 12 (Prohibited Conduct).</p>
 
-2.  **Consequences of any misconduct may include losing current User
+<p>12.18 &nbsp;&nbsp;Consequences of any misconduct may include losing current User
     Content Posting privileges and access to the Service. Sage may
     communicate any intentional or accidental violation of these Terms
     to third parties, including, for example, the institutional
     officials of the user of the Service and the User Content
-    contributor.**
+    contributor.</p>
 </li>
 
 <li>
-**<u>Intellectual Property Rights Protection</u>**
+<h3>Intellectual Property Rights Protection</h3>
 
-**Respect of Third-Party Rights. Sage respects the intellectual property
+<p><strong>13.1 &nbsp;&nbsp; Respect of Third-Party Rights.</strong> Sage respects the intellectual property
 rights of others, takes the protection of intellectual property rights
 very seriously, and asks users of the Service to do the same. Infringing
-activity will not be tolerated on or through the Service.**
+activity will not be tolerated on or through the Service.</p>
 
-**DMCA Notification. We comply with the provisions of the Digital
+<p><strong>13.2 &nbsp;&nbsp; DMCA Notification.</strong> We comply with the provisions of the Digital
 Millennium Copyright Act applicable to Internet service providers (17
 U.S.C. § 512, as amended). If you have an intellectual property
 rights-related complaint about any material on the Service, you may
-contact our Designated Agent at the following address:**
+contact our Designated Agent at the following address:</p>
 
-**Procedure for Reporting Claimed Infringement. If you believe that any
+Sage Bionetworks
+Attn: PCO-Copyright
+2901 Third Ave, Ste 330, Seattle, WA 98121
+Email: copyright@sagebase.org
+
+<p><strong>13.3 &nbsp;&nbsp;Procedure for Reporting Claimed Infringement.</strong> If you believe that any
 Content made available on or through the Service has been used or
 exploited in a manner that infringes an intellectual property right you
 own or control, then please promptly send a written
 <span dir="rtl">“</span>Notification of Claimed Infringement” to the
 Designated Agent identified above containing the following
-information:**
+information:</p>
 
-an electronic or physical signature of the person authorized to act on
-behalf of the owner of the copyright or other right being infringed;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; an electronic or physical signature of the person authorized to act on
+behalf of the owner of the copyright or other right being infringed;</p>
 
-a description of the copyrighted work or other intellectual property
-right that you claim has been infringed;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp; a description of the copyrighted work or other intellectual property
+right that you claim has been infringed;</p>
 
-a description of the material that you claim is infringing and where it
-is located on the Service;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp; a description of the material that you claim is infringing and where it
+is located on the Service;</p>
 
-identification of the time(s) and date(s) the material that you claim is
-infringing was displayed on the Service;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp; identification of the time(s) and date(s) the material that you claim is
+infringing was displayed on the Service;</p>
 
-your address, telephone number, and email address;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;&nbsp;&nbsp;your address, telephone number, and email address;</p>
 
-1.  a statement by you that you have a good faith belief that the use of
-    the materials on the Service of which you are complaining is not
-    authorized by the copyright or other intellectual property right
-    owner, its agent, or the law; and
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;&nbsp;&nbsp;&nbsp;a statement by you that you have a good faith belief that the use of
+the materials on the Service of which you are complaining is not
+authorized by the copyright or other intellectual property right
+owner, its agent, or the law; and </p>
 
-2.  a statement by you that the above information in your notice is
-    accurate and that, under penalty of perjury, you are the copyright
-    or other intellectual property right owner, or authorized to act on
-    the copyright or intellectual property
-    owner<span dir="rtl">’</span>s behalf.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;&nbsp;&nbsp;&nbsp; a statement by you that the above information in your notice is
+accurate and that, under penalty of perjury, you are the copyright
+or other intellectual property right owner, or authorized to act on the copyright or intellectual property
+owner<span dir="rtl">’</span>s behalf.</p>
 
-**Your Notification of Claimed Infringement may be shared by Sage with
+<p>Your Notification of Claimed Infringement may be shared by Sage with
 the user alleged to have infringed a right you own or control as well as
 with the operators of publicly available databases that track
 notifications of claimed infringement, and you consent to Sage making
 such disclosures. You should consult with your own lawyer or see 17
 U.S.C. § 512 to confirm your obligations to provide a valid notice of
-claimed infringement.**
+claimed infringement.</p>
 
-1.  **Repeat Infringers. Sage<span dir="rtl">’</span>s policy is to: (a)
-    remove or disable access to material that Sage believes in good
-    faith, upon notice from an intellectual property rights owner or
-    authorized agent, is infringing the intellectual property rights of
-    a third party by being made available through the Service; and (b)
-    in appropriate circumstances, to terminate the accounts of and block
-    access to the Service by any user who repeatedly or egregiously
-    infringes other people<span dir="rtl">’</span>s copyright or other
-    intellectual property rights. Sage will terminate the accounts of
-    users that are determined by Sage to be repeat infringers. Sage
-    reserves the right, however, to suspend or terminate accounts of
-    users in our sole discretion.**
-
-<!-- -->
-
-1.  **Counter Notification. If you receive a notification from Sage that
-    material made available by you on or through the Service has been
-    the subject of a Notification of Claimed Infringement, then you will
-    have the right to provide Sage with what is called a
-    <span dir="rtl">“</span>Counter Notification.” To be effective, a
-    Counter Notification must be in writing, provided to
-    Sage<span dir="rtl">’</span>s Designated Agent through one of the
-    methods identified in Section 13.2 (DMCA Notification), and include
-    substantially the following information:**
-
-your physical or electronic signature;
-
-1.  identification of the material that has been removed or to which
-    access has been disabled and the location at which the material
-    appeared before it was removed or access to it was disabled;
+<p><strong>13.4 &nbsp;&nbsp; Repeat Infringers.</strong> Sage<span dir="rtl">’</span>s policy is to:
+(a)remove or disable access to material that Sage believes in good
+faith, upon notice from an intellectual property rights owner or
+authorized agent, is infringing the intellectual property rights of
+a third party by being made available through the Service; and (b)
+in appropriate circumstances, to terminate the accounts of and block
+access to the Service by any user who repeatedly or egregiously
+infringes other people<span dir="rtl">’</span>s copyright or other
+intellectual property rights. Sage will terminate the accounts of
+users that are determined by Sage to be repeat infringers. Sage
+reserves the right, however, to suspend or terminate accounts of
+users in our sole discretion.</p>
 
 <!-- -->
 
-1.  a statement under penalty of perjury that you have a good faith
-    belief that the material was removed or disabled as a result of
-    mistake or misidentification of the material to be removed or
-    disabled; and
+<p><strong>13.4 &nbsp;&nbsp;Counter Notification.</strong> If you receive a notification from Sage that
+material made available by you on or through the Service has been
+the subject of a Notification of Claimed Infringement, then you will
+have the right to provide Sage with what is called a
+<span dir="rtl">“</span>Counter Notification.” To be effective, a
+Counter Notification must be in writing, provided to
+Sage<span dir="rtl">’</span>s Designated Agent through one of the
+methods identified in Section 13.2 (DMCA Notification), and include
+substantially the following information:</p>
 
-2.  your name, address, and telephone number, and a statement that you
-    consent to the jurisdiction of Federal District Court for the
-    judicial district in which the address is located, or if you are
-    residing outside of the United States, then to the jurisdiction of
-    the federal court in Seattle, Washington, and that you will accept
-    service of process from the person who provided notification under
-    Section 13.2 (DMCA Notification) above or an agent of that person.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; your physical or electronic signature;</p>
 
-**A party submitting a Counter Notification should consult a lawyer or
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp; identification of the material that has been removed or to which
+access has been disabled and the location at which the material
+appeared before it was removed or access to it was disabled;</p>
+
+<!-- -->
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp; a statement under penalty of perjury that you have a good faith
+belief that the material was removed or disabled as a result of
+mistake or misidentification of the material to be removed or
+disabled; and</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp; your name, address, and telephone number, and a statement that you
+consent to the jurisdiction of Federal District Court for the
+judicial district in which the address is located, or if you are
+residing outside of the United States, then to the jurisdiction of
+the federal court in Seattle, Washington, and that you will accept
+service of process from the person who provided notification under
+Section 13.2 (DMCA Notification) above or an agent of that person.
+
+<p>A party submitting a Counter Notification should consult a lawyer or
 see 17 U.S.C. § 512 to confirm the party<span dir="rtl">’</span>s
 obligations to provide a valid counter notification under the Copyright
-Act.**
+Act.</p>
 
-1.  **Reposting of Content Subject to a Counter Notification. If you
-    submit a Counter Notification to Sage in response to a Notification
-    of Claimed Infringement, then Sage will promptly provide the person
-    who provided the Notification of Claimed Infringement with a copy of
-    your Counter Notification and inform that person that Sage will
-    replace the removed User Content or cease disabling access to it in
-    10 business days, and Sage will replace the removed User Content and
-    cease disabling access to it not less than 10, nor more than 14,
-    business days following receipt of the Counter Notification, unless
-    Sage<span dir="rtl">’</span>s Designated Agent receives notice from
-    the party that submitted the Notification of Claimed Infringement
-    that such person has filed an action seeking a court order to
-    restrain the user from engaging in infringing activity relating to
-    the material on Sage system or network.**
+<p><strong>13.6 &nbsp;&nbsp; Reposting of Content Subject to a Counter Notification.</strong>
+If you submit a Counter Notification to Sage in response to a Notification
+of Claimed Infringement, then Sage will promptly provide the person
+who provided the Notification of Claimed Infringement with a copy of
+your Counter Notification and inform that person that Sage will
+replace the removed User Content or cease disabling access to it in
+10 business days, and Sage will replace the removed User Content and
+cease disabling access to it not less than 10, nor more than 14,
+business days following receipt of the Counter Notification, unless
+Sage<span dir="rtl">’</span>s Designated Agent receives notice from
+the party that submitted the Notification of Claimed Infringement
+that such person has filed an action seeking a court order to
+restrain the user from engaging in infringing activity relating to
+the material on Sage system or network.</p>
 
 <!-- -->
 
-1.  **False Notifications of Claimed Infringement or Counter
-    Notifications. The Copyright Act provides at 17 U.S.C. § 512(f)
-    that: <span dir="rtl">“</span>\[a\]ny person who knowingly
-    materially misrepresents under \[Section 512 of the Copyright Act
-    (17 U.S.C. § 512)\] (1) that material or activity is infringing,
-    or (2) that material or activity was removed or disabled by mistake
-    or misidentification, will be liable for any damages, including
-    costs and attorneys<span dir="rtl">’</span> fees, incurred by the
-    alleged infringer, by any copyright owner or copyright
-    owner<span dir="rtl">’</span>s authorized licensee, or by a service
-    provider, who is injured by such misrepresentation, as the result of
-    Sage relying upon such misrepresentation in removing or disabling
-    access to the material or activity claimed to be infringing, or in
-    replacing the removed material or ceasing to disable access to it.”
-    Sage reserves the right to seek damages from any party that submits
-    a Notification of Claimed Infringement or Counter Notification in
-    violation of the law.**
-</li>
+<p><strong>13.6 &nbsp;&nbsp; False Notifications of Claimed Infringement or Counter Notifications.</strong> 
+The Copyright Act provides at 17 U.S.C. § 512(f)
+that: <span dir="rtl">“</span>\[a\]ny person who knowingly
+materially misrepresents under \[Section 512 of the Copyright Act
+(17 U.S.C. § 512)\] (1) that material or activity is infringing,
+or (2) that material or activity was removed or disabled by mistake
+or misidentification, will be liable for any damages, including
+costs and attorneys<span dir="rtl">’</span> fees, incurred by the
+alleged infringer, by any copyright owner or copyright
+owner<span dir="rtl">’</span>s authorized licensee, or by a service
+provider, who is injured by such misrepresentation, as the result of
+Sage relying upon such misrepresentation in removing or disabling
+access to the material or activity claimed to be infringing, or in
+replacing the removed material or ceasing to disable access to it.”
+Sage reserves the right to seek damages from any party that submits
+a Notification of Claimed Infringement or Counter Notification in
+violation of the law.</p>
 
+</li>
 <li>
-    **<u>Modification of Terms. We may, from time to time, change these
-    Terms. Please check these Terms periodically for changes. Revisions
-    will be effective immediately except that, for existing users,
-    material revisions will be effective 30 days after posting or notice
-    to you of the revisions unless otherwise stated. We may require that
-    you accept modified Terms in order to continue to use the Service.
-    If you do not agree to the modified Terms, then you should
-    discontinue your use of the Service. Except as expressly permitted
+<h3>Modification of Terms.</h3> We may, from time to time, change these
+Terms. Please check these Terms periodically for changes. Revisions
+will be effective immediately except that, for existing users,
+material revisions will be effective 30 days after posting or notice
+to you of the revisions unless otherwise stated. We may require that
+you accept modified Terms in order to continue to use the Service.
+If you do not agree to the modified Terms, then you should
+discontinue your use of the Service. Except as expressly permitted
     in this Section 14 (Modification of Terms), these Terms may be
     amended only by a written agreement signed by authorized
     representatives of the parties to these Terms.</u>**
