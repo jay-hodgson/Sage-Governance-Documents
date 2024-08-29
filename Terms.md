@@ -79,7 +79,7 @@ topical challenges run through platform(s), analysis tools, and other informatio
 us (collectively, the “<strong>Service”</strong>"). These Terms of Service are a legally binding contract between you (“<strong>you</strong>”
 or “<strong>your</strong>”) and Sage regarding your use of the Service.
 
-<p>PLEASE READ THE FOLLOWING TERMS CAREFULLY:</p>
+<p>PLEASE READ THE FOLLOWING TERMS CAREFULLY</p>
 
 <p><strong>BY CLICKING “I ACCEPT”, DOWNLOADING, UPLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE
 SERVICE, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE
@@ -136,14 +136,10 @@ for credentialing any users of such workspace and providing all additional licen
 necessary for other users to collaborate within the workspace.</p>
 
 <p><strong>1.6 &nbsp;&nbsp; Connections to other Platforms</strong>; consistent with Section 10, Sage may provide access to other platforms via 
-application programming interfaces (<span dir="rtl">“</span>API”) to allow users to connect to
-and utilize User Content in third-party computing platforms and other
-environments, including user-supplied data storage environments. Any use
-of Content (as defined below in Section 9.1) on such third party
-computing platforms or in other environments is subject to any use
-restrictions associated with such User Content. Consistent with Section
-8, any use of third party sites is at the users own risk.</p>
-
+application programming interfaces (<span dir="rtl">“</span><strong><ins>API</ins></strong>”) to allow users to connect to
+and utilize User Content in third-party computing platforms and other environments, including user-supplied data storage environments. Any use
+of Content (as defined below in Section 9.1) on such third party computing platforms or in other environments is subject to any use
+restrictions associated with such User Content. Consistent with Section 8, any use of third party sites is at the users own risk.</p>
 
 <li>
     <h3>&nbsp;&nbsp; Medical Advice Disclaimer.</h3>
@@ -281,27 +277,20 @@ under applicable law from using the Service, then you may not use
 it.</p>
 
 <p><strong>6.3 &nbsp;&nbsp; Feedback.</strong> We respect and appreciate the thoughts and comments from
-our users. If you choose to provide input and suggestions regarding
-existing functionalities, problems with or proposed modifications or
-improvements to the Service (<span dir="rtl">“</span>Feedback”),
-then you hereby grant Sage an unrestricted, perpetual, irrevocable,
-non-exclusive, fully-paid, royalty-free right and license to exploit
-the Feedback in any manner and for any purpose, including to improve
-the Service and create other products and services. We will have no
-obligation to provide you with attribution for any Feedback you
-provide to us.</p>
-</li>
-  
+our users. If you choose to provide input and suggestions regarding existing functionalities, problems with or proposed modifications or
+improvements to the Service (<span dir="rtl">“</span><ins><strong>Feedback</strong></ins>”),
+then you hereby grant Sage an unrestricted, perpetual, irrevocable, non-exclusive, fully-paid, royalty-free right and license to exploit
+the Feedback in any manner and for any purpose, including to improve the Service and create other products and services. We will have no
+obligation to provide you with attribution for any Feedback you provide to us.</p>
+</li>  
 
 <li>
 <h3>&nbsp;&nbsp; Ownership; Proprietary Rights.</h3> The Service is owned and
 operated by Sage. The visual interfaces, graphics, design, compilation, information, data,
 computer code (including source code or object code), products, software, services, and all other
-elements of the Service provided by Sage (<span dir="rtl">“</span>Materials”) are protected by intellectual
-property and other laws. All Materials included in the Service are
-the property of Sage or its third-party licensors. Except as
-expressly authorized by Sage, you may not make use of the Materials.
-There are no implied licenses in these Terms and Sage reserves all
+elements of the Service provided by Sage (<span dir="rtl">“</span><ins><strong>Materials</strong></ins>”) are protected by intellectual
+property and other laws. All Materials included in the Service are the property of Sage or its third-party licensors. Except as
+expressly authorized by Sage, you may not make use of the Materials. There are no implied licenses in these Terms and Sage reserves all
 rights to the Materials not granted expressly in these Terms.</li>
 
 
@@ -329,7 +318,7 @@ will have no control over the information that has been shared.</p>
 third-party software components that are generally available free of
 charge under licenses granting recipients broad rights to copy,
 modify, and distribute those components
-(<span dir="rtl">“</span>Third-Party Components”). Although the
+(<span dir="rtl">“</span><ins><strong>Third-Party Components</strong></ins>”). Although the
 Service is provided to you subject to these Terms, nothing in these
 Terms prevents, restricts, or is intended to prevent or restrict you
 from obtaining Third-Party Components under the applicable
@@ -427,12 +416,10 @@ forth in this Section 9.6.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 9.6 (a) &nbsp;&nbsp; <ins>To Users.</ins> By Posting Public Content to or via the Service, you grant
 all users of the Service, subject to any User Content restrictions
-you provide, a license to such Public Content pursuant to (i) the
-Creative Commons BY 4.0 License for any data included in your Public
-Content, \[and\] (ii) the Apache 2 license for any software or
-source code included in your Public Content \[, and/or the Open
+you provide, a license to such Public Content pursuant to (i) the Creative Commons BY 4.0 License for any data included in your Public
+Content, (ii) the Apache 2 license for any software or source code included in your Public Content, and/or the Open
 RAIL-M licenses with respect to any artificial intelligence or
-machine learning models included in your Public Content\], as
+machine learning models included in your Public Content, as
 applicable. If at any time you make all or portions of your Public
 Content private, users who have relied on the license granted in
 this Section 9.6(a) shall maintain all rights granted pursuant to
@@ -707,7 +694,7 @@ provision of these Terms and any User Content restrictions; without
 limiting the generality of the foregoing, you may be permitted to
 redistribute User Content, but solely to the extent that you have
 assurances that all subsequent recipients comply with these Terms, the
-Privacy Policy \[insert link to Privacy Policy\], as well as any
+<strong>Privacy Policy</strong>, as well as any
 additional User Content restrictions;</p>
 
 <p><strong>12.8 &nbsp;&nbsp;</strong> use or attempt to use the User Content to harm, marginalize, or
@@ -868,7 +855,7 @@ users in our sole discretion.</p>
 material made available by you on or through the Service has been
 the subject of a Notification of Claimed Infringement, then you will
 have the right to provide Sage with what is called a
-<span dir="rtl">“</span>Counter Notification.” To be effective, a
+<span dir="rtl">“</span><ins><strong>Counter Notification</strong></ins>.” To be effective, a
 Counter Notification must be in writing, provided to
 Sage<span dir="rtl">’</span>s Designated Agent through one of the
 methods identified in Section 13.2 (DMCA Notification), and include
@@ -914,13 +901,11 @@ that such person has filed an action seeking a court order to
 restrain the user from engaging in infringing activity relating to
 the material on Sage system or network.</p>
 
-<!-- -->
-
 <p><strong>13.7 &nbsp;&nbsp; False Notifications of Claimed Infringement or Counter Notifications.</strong> 
 The Copyright Act provides at 17 U.S.C. § 512(f)
-that: <span dir="rtl">“</span>\[a\]ny person who knowingly
-materially misrepresents under \[Section 512 of the Copyright Act
-(17 U.S.C. § 512)\] (1) that material or activity is infringing,
+that: <span dir="rtl">“</span> any person who knowingly
+materially misrepresents under Section 512 of the Copyright Act
+(17 U.S.C. § 512) (1) that material or activity is infringing,
 or (2) that material or activity was removed or disabled by mistake
 or misidentification, will be liable for any damages, including
 costs and attorneys<span dir="rtl">’</span> fees, incurred by the
@@ -933,8 +918,8 @@ replacing the removed material or ceasing to disable access to it.”
 Sage reserves the right to seek damages from any party that submits
 a Notification of Claimed Infringement or Counter Notification in
 violation of the law.</p>
-
 </li>
+
 <li>
 <h3>Modification of Terms.</h3> We may, from time to time, change these
 Terms. Please check these Terms periodically for changes. Revisions
@@ -944,9 +929,9 @@ to you of the revisions unless otherwise stated. We may require that
 you accept modified Terms in order to continue to use the Service.
 If you do not agree to the modified Terms, then you should
 discontinue your use of the Service. Except as expressly permitted
-    in this Section 14 (Modification of Terms), these Terms may be
-    amended only by a written agreement signed by authorized
-    representatives of the parties to these Terms.</u>**
+in this Section 14 (Modification of Terms), these Terms may be
+amended only by a written agreement signed by authorized
+representatives of the parties to these Terms.
 </li>
 
 <li>
@@ -954,7 +939,7 @@ discontinue your use of the Service. Except as expressly permitted
 
 <p><strong>15.1 &nbsp;&nbsp; Term.</strong> These Terms are effective beginning when you accept the Terms or
 first download, install, access, or use the Service, and ending when
-terminated as described in Section 15.2 (Termination).**
+terminated as described in Section 15.2 (Termination).
 
 <p><strong>15.2 &nbsp;&nbsp; Termination.</strong> If you violate any provision of these Terms, then
     your authorization to access the Service and these Terms
@@ -991,7 +976,7 @@ terminated as described in Section 15.2 (Termination).**
     Content and use your User Content to the extent necessary to comply
     with our legal obligations, resolve any disputes regarding such User
     Content, and exercise our rights under any agreement we have with
-    you.**
+    you.
 
 <p><strong>15.4 &nbsp;&nbsp; Modification of the Service.</strong> Sage reserves the right to modify,
     discontinue, or restrict all or any portion of the Service at any
@@ -1131,7 +1116,8 @@ Any dispute relating to the interpretation, applicability, or
 enforceability of this binding arbitration agreement will be resolved by
 the arbitrator.</p>
 
-<p> YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND SAGE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.</p>
+<p> YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND SAGE ARE EACH WAIVING
+THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.</p>
 
 <p><strong>19.2 &nbsp;&nbsp; Exceptions.</strong> Although we are agreeing to arbitrate most disputes
     between us, nothing in these Terms will be deemed to waive,
@@ -1140,7 +1126,7 @@ the arbitrator.</p>
     enforcement action through the applicable federal, state, or local
     agency if that action is available; (c) seek injunctive relief in a
     court of law in aid of arbitration; or (d) to file suit in a court
-    of law to address an intellectual property infringement claim.**
+    of law to address an intellectual property infringement claim.
 
 <p><strong>19.3 &nbsp;&nbsp; Opt-Out.</strong> If you do not wish to resolve disputes by binding
     arbitration, you may opt out of the provisions of this Section 19
@@ -1150,32 +1136,32 @@ the arbitrator.</p>
     Third Ave, Ste 330, Seattle, WA 98121 that specifies: your full
     legal name, the email address associated with your account on the
     Service, and a statement that you wish to opt out of arbitration
-    (<span dir="rtl">“</span>Opt-Out Notice”). Once Sage receives your
+    (<span dir="rtl">“</span><ins><strong>Opt-Out Notice</strong></ins>”). Once Sage receives your
     Opt-Out Notice, this Section 19 (Dispute Resolution and Arbitration)
     will be void and any action arising out of these Terms will be
     resolved as set forth in Section 20.2 (Governing Law). The remaining
     provisions of these Terms will not be affected by your Opt-Out
-    Notice.**
+    Notice.
 
 <p><strong>19.4 &nbsp;&nbsp; Arbitrator.</strong> This arbitration agreement, and any arbitration
     between us, is subject to the Federal Arbitration Act and will be
     administered by JAMS under the rules applicable to consumer disputes
-    (collectively, <span dir="rtl">“</span>JAMS Rules”) as modified by
+    (collectively, <span dir="rtl">“</span><ins><strong>JAMS Rules</strong></ins>”) as modified by
     these Terms. The JAMS Rules and filing forms are available online at
     www.jamsadr.org, by calling the JAMS at +1-800-352-5267, or by
-    contacting Sage.**
+    contacting Sage.
 
 <p><strong>19.5 &nbsp;&nbsp; Commencing Arbitration.</strong> Before initiating arbitration, a party
     must first send a written notice of the dispute to the other party
     by certified U.S. Mail or by Federal Express (signature required)
     or, only if that other party has not provided a current physical
-    address, then by electronic mail (<span dir="rtl">“</span>Notice of
-    Arbitration”). Sage<span dir="rtl">’</span>s address for Notice is:
-    Sage Bionetworks, 2901 Third Ave, Ste 330, Seattle, WA 98121. The
+    address, then by electronic mail (<span dir="rtl">“</span><ins><strong>Notice of
+    Arbitration</strong></ins>”). Sage<span dir="rtl">’</span>s address for Notice is:
+    <strong>Sage Bionetworks, 2901 Third Ave, Ste 330, Seattle, WA 98121, USA </strong>. The
     Notice of Arbitration must: (a) identify the name or account number
     of the party making the claim; (b) describe the nature and basis of
     the claim or dispute; and (c) set forth the specific relief sought
-    (<span dir="rtl">“</span>Demand”). The parties will make good faith
+    (<span dir="rtl">“</span><ins><strong>Demand</strong></ins>”). The parties will make good faith
     efforts to resolve the claim directly, but if the parties do not
     reach an agreement to do so within 30 days after the Notice of
     Arbitration is received, you or Sage may commence an arbitration
@@ -1204,7 +1190,7 @@ the arbitrator.</p>
     award, if any. Regardless of the manner in which the arbitration is
     conducted, the arbitrator must issue a reasoned written decision
     sufficient to explain the essential findings and conclusions on
-    which the decision and award, if any, are based.**
+    which the decision and award, if any, are based.
 
 <p><strong>19.7 &nbsp;&nbsp; Arbitration Relief.</strong> Except as provided in Section 19.8 (No Class
     Actions), the arbitrator can award any relief that would be
@@ -1221,7 +1207,7 @@ the arbitrator.</p>
     injunctive relief in a court of competent jurisdiction that shall
     not be bound by the arbitrator<span dir="rtl">’</span>s application
     or conclusions of law. Judgment on the award may be entered in any
-    court having jurisdiction.**
+    court having jurisdiction.
 
 <p><strong>19.8 &nbsp;&nbsp; No Class Actions.</strong> YOU AND SAGE AGREE THAT EACH MAY BRING CLAIMS
     AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS
@@ -1252,8 +1238,7 @@ the arbitrator.</p>
 <li>
 <h3>Miscellaneous</h3>
 
-<p><strong>20.1 &nbsp;&nbsp; General Terms.</strong> These Terms, including the Privacy Policy \[insert link
-to Privacy Policy\] and any other agreements expressly incorporated by
+<p><strong>20.1 &nbsp;&nbsp; General Terms.</strong> These Terms, including the <strong>Privacy Policy</strong> and any other agreements expressly incorporated by
 reference into these Terms, are the entire and exclusive understanding
 and agreement between you and Sage regarding your use of the Service.
 You may not assign or transfer these Terms or your rights under these
@@ -1268,7 +1253,7 @@ waiver of any subsequent breach or default or a waiver of the provision
 itself. Use of Section headers in these Terms is for convenience only
 and will not have any impact on the interpretation of any provision.
 Throughout these Terms the use of the word
-<span dir="rtl">“</span>including” means
+<span dir="rtl">“</span><ins><strong>including</strong></ins>” means
 <span dir="rtl">“</span>including but not limited to.” If any part of
 these Terms is held to be invalid or unenforceable, then the
 unenforceable part will be given effect to the greatest extent possible,
@@ -1285,18 +1270,16 @@ and the remaining parts will remain in full force and effect.</p>
     that you are a sovereign entity and are unable to comply with this
     section, please contact privacyofficer@sagebase.org</p>
 
-<p><strong>20.3 &nbsp;&nbsp; Privacy Policy.</strong> Please read the Privacy Policy \[insert link to
-    Privacy Policy\] (the <span dir="rtl">“</span>Privacy Policy”)
+<p><strong>20.3 &nbsp;&nbsp; Privacy Policy.</strong> Please read the <strong>Privacy Policy</strong> (the <span dir="rtl">“</span><ins><strong>Privacy Policy</strong></ins>”)
     carefully for information relating to our collection, use, storage,
     and disclosure of your personal data. The Privacy Policy is
-    incorporated by this reference into, and made a part of, these
-    Terms.</p>
+    incorporated by this reference into, and made a part of, these Terms.</p>
 
 <p><strong>20.4 &nbsp;&nbsp; Additional Terms.</strong> Your use of the Service is subject to all
     additional terms, policies, rules, or guidelines applicable to the
     Service or certain features of the Service that we may post on or
-    link to from the Service (the <span dir="rtl">“</span>Additional
-    Terms”). All Additional Terms are incorporated by this reference
+    link to from the Service (the <span dir="rtl">“</span><ins><strong>Additional
+    Terms</strong></ins>”). All Additional Terms are incorporated by this reference
     into, and made a part of, these Terms.</p>
 
 <p><strong>20.5 &nbsp;&nbsp; Consent to Electronic Communications.</strong> To the extent authorized by
