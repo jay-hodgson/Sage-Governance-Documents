@@ -677,32 +677,32 @@ state, national, or international law, regulation, including all
 antitrust laws and privacy laws and regulations, or order of any
 governmental authority in any jurisdiction;</p>
 
-<p>12.2 &nbsp;&nbsp; use the Service in a manner that is harmful, harassing, defamatory,
+<p><strong>12.2 &nbsp;&nbsp;</strong> use the Service in a manner that is harmful, harassing, defamatory,
 threatening, vulgar, sexually explicit, hateful, unethical,
 irresponsible, or otherwise objectionable or that can cause harm or
 delay to the Service or computers or networks of any kind;</p>
 
-<p>12.3 &nbsp;&nbsp; use the Service in a manner that violates our community principles;
+<p><strong>12.3 &nbsp;&nbsp;</strong> use the Service in a manner that violates our community principles;
 these community principles include welcoming others, using inclusive
 language, sharing knowledge and experience, respecting other viewpoints
 and ideas, and showing empathy and kindness when interacting with
 others;</p>
 
-<p>12.4 &nbsp;&nbsp; unless otherwise agreed with Sage, contribute any User Content that is
+<p><strong>12.4 &nbsp;&nbsp;</strong> unless otherwise agreed with Sage, contribute any User Content that is
 (i) directly identifiable as defined by the HIPAA Privacy Rule and all
 applicable privacy laws and regulations, (ii) subject to the data
 protection laws of the EEA, including the General Data Protection
 Regulation (EU) 2016/679, the United Kingdom, or Switzerland;</p>
 
-<p>12.5 &nbsp;&nbsp; publish, present or otherwise disclose User Content or results from
+<p><strong>12.5 &nbsp;&nbsp;</strong> publish, present or otherwise disclose User Content or results from
 analysis of User Content obtained through the Service without properly
 attributing the User Content source or using the User Content in a
 manner inconsistent with any User Content restrictions;</p>
 
-<p>12.6 &nbsp;&nbsp; Post any User Content that is licensed under a Copyleft license or any
+<p><strong>12.6 &nbsp;&nbsp;</strong> Post any User Content that is licensed under a Copyleft license or any
 other viral open source license;</p>
 
-<p>12.7 &nbsp;&nbsp; redistribute User Content in a manner that fails to comply with any
+<p><strong>12.7 &nbsp;&nbsp;</strong> redistribute User Content in a manner that fails to comply with any
 provision of these Terms and any User Content restrictions; without
 limiting the generality of the foregoing, you may be permitted to
 redistribute User Content, but solely to the extent that you have
@@ -710,23 +710,23 @@ assurances that all subsequent recipients comply with these Terms, the
 Privacy Policy \[insert link to Privacy Policy\], as well as any
 additional User Content restrictions;</p>
 
-<p>12.8 &nbsp;&nbsp; use or attempt to use the User Content to harm, marginalize, or
+<p><strong>12.8 &nbsp;&nbsp;</strong> use or attempt to use the User Content to harm, marginalize, or
 discriminate against individuals or populations, whether in insurance,
 employment, or other manners;</p>
 
-<p>12.9 &nbsp;&nbsp; identify, or make any attempt to identify, any individuals to which
+<p><strong>12.9 &nbsp;&nbsp;</strong> identify, or make any attempt to identify, any individuals to which
 any User Content pertains</p>
 
-<p>12.10 &nbsp;&nbsp; violate, encourage others to violate, or provide instructions on how
+<p><strong>12.10 &nbsp;&nbsp;</strong> violate, encourage others to violate, or provide instructions on how
 to violate, any right of a third party, including by infringing or
 misappropriating any third-party intellectual property right;</p>
 
-<p>12.11 &nbsp;&nbsp; access, search, or otherwise use any portion of the Service through
+<p><strong>12.11 &nbsp;&nbsp;</strong> access, search, or otherwise use any portion of the Service through
 the use of any engine, software, tool, agent, device, or mechanism
 (including spiders, robots, crawlers, and data mining tools) other than
 the software or search agents provided by Sage;</p>
 
-<p>12.12 &nbsp;&nbsp; interfere with security-related features of the Service, including by:
+<p><strong>12.12 &nbsp;&nbsp;</strong> interfere with security-related features of the Service, including by:
 (i) failing to keep your login information secure and/or sharing it with
 others; (ii) disabling or circumventing features that prevent or limit
 use, printing or copying of any Content; or (iii) reverse engineering or
@@ -734,7 +734,7 @@ otherwise attempting to discover the source code of any portion of the
 Service except to the extent that the activity is expressly permitted by
 applicable law;</p>
 
-<p>12.13 &nbsp;&nbsp; interfere with the operation of the Service or any
+<p><strong>12.13 &nbsp;&nbsp;</strong> interfere with the operation of the Service or any
 user<span dir="rtl">’</span>s enjoyment of the Service, including by:
 (i) uploading or otherwise disseminating any virus, adware, spyware,
 worm, or other malicious code; (ii) uploading or otherwise transmitting
@@ -744,12 +744,12 @@ mail, spam, or any other form of solicitation (commercial or otherwise);
 consent; or (iv) interfering with or disrupting any network, equipment,
 or server connected to or used to provide the Service;</p>
 
-<p>12.14 &nbsp;&nbsp; perform any fraudulent activity including impersonating any person or
+<p><strong>12.14 &nbsp;&nbsp;</strong> perform any fraudulent activity including impersonating any person or
 entity, claiming a false affiliation or identity, accessing any other
 Service account without permission, employing fraudulent means to pass
 the training obligations, or falsifying your age;</p>
 
-<p>12.15 &nbsp;&nbsp; reproduce, distribute, publicly display, publicly perform, sell,
+<p><strong>12.15 &nbsp;&nbsp;</strong> reproduce, distribute, publicly display, publicly perform, sell,
 trade, transfer, resell or exploit any portion of the Service, use of
 the Service, access to the Service granted under these Terms, or any
 Materials obtained through the Service, for any purpose other than
@@ -766,9 +766,9 @@ Service or any of its Materials are made available; or</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;(c) &nbsp;&nbsp;&nbsp;&nbsp; using any trademarks, service marks, design marks, logos, photographs or
 other  Content belonging to us or obtained from the Service;</p>
 
-<p>12.16 &nbsp;&nbsp; restrict, discourage, or inhibit any person from using the Service;</p>
+<p><strong>12.16 &nbsp;&nbsp;</strong> restrict, discourage, or inhibit any person from using the Service;</p>
 
-<p>12.17 &nbsp;&nbsp; use excessive bandwidth, whether through
+<p><strong>12.17 &nbsp;&nbsp;</strong> use excessive bandwidth, whether through
 Sage<span dir="rtl">’</span>s API or otherwise, and as determined by
 us in our sole discretion, on the Service (if your bandwidth usage
 significantly exceeds the average bandwidth usage of other users of
@@ -778,11 +778,11 @@ hosting until you can reduce your bandwidth consumption); or</p>
 
 <!-- -->
 
-<p>12.18 &nbsp;&nbsp; attempt to do any of the acts described in this Section 12
+<p><strong>12.18 &nbsp;&nbsp;</strong> attempt to do any of the acts described in this Section 12
     (Prohibited Conduct) or assist or permit any person in engaging in
     any of the acts described in this Section 12 (Prohibited Conduct).</p>
 
-<p>12.18 &nbsp;&nbsp;Consequences of any misconduct may include losing current User
+<p><strong>12.19 &nbsp;&nbsp; </strong>Consequences of any misconduct may include losing current User
     Content Posting privileges and access to the Service. Sage may
     communicate any intentional or accidental violation of these Terms
     to third parties, including, for example, the institutional
@@ -864,7 +864,7 @@ users in our sole discretion.</p>
 
 <!-- -->
 
-<p><strong>13.4 &nbsp;&nbsp;Counter Notification.</strong> If you receive a notification from Sage that
+<p><strong>13.5 &nbsp;&nbsp;Counter Notification.</strong> If you receive a notification from Sage that
 material made available by you on or through the Service has been
 the subject of a Notification of Claimed Infringement, then you will
 have the right to provide Sage with what is called a
@@ -880,7 +880,6 @@ substantially the following information:</p>
 access has been disabled and the location at which the material
 appeared before it was removed or access to it was disabled;</p>
 
-<!-- -->
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp; a statement under penalty of perjury that you have a good faith
 belief that the material was removed or disabled as a result of
@@ -951,7 +950,7 @@ discontinue your use of the Service. Except as expressly permitted
 </li>
 
 <li>
-<hu>Term, Termination, and Modification of the Service</hu>
+<h3>Term, Termination, and Modification of the Service</h3>
 
 <p><strong>15.1 &nbsp;&nbsp; Term.</strong> These Terms are effective beginning when you accept the Terms or
 first download, install, access, or use the Service, and ending when
@@ -966,8 +965,6 @@ terminated as described in Section 15.2 (Termination).**
     without any liability to you arising from such termination. You may
     terminate your account and these Terms at any time by contacting
     Sage Privacy Officer at privacyofficer@sagebase.org.</p>
-
-<!-- -->
 
 <p><strong>15.3 &nbsp;&nbsp; Effect of Termination.</strong> Upon termination of these Terms: (a) your
     license rights will terminate and you must immediately cease all use
@@ -1011,7 +1008,7 @@ terminated as described in Section 15.2 (Termination).**
 
 
 <li>
-   <hu>Indemnity.</hu> To the fullest extent permitted by law, you are
+   <h3>Indemnity.</h3> To the fullest extent permitted by law, you are
     responsible for your use of the Service, and you will defend and
     indemnify Sage, its affiliates and their respective shareholders,
     directors, managers, members, officers, employees, consultants, and
@@ -1038,7 +1035,7 @@ terminated as described in Section 15.2 (Termination).**
 </li>
 
 <li>
-<hu>Disclaimers; No Warranties by Sage</hu>
+<h3>Disclaimers; No Warranties by Sage</h3>
 
 <p><strong>17.1 &nbsp;&nbsp; </strong> THE SERVICE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE
 SERVICE ARE PROVIDED <span dir="rtl">“</span>AS IS” AND ON AN
@@ -1058,8 +1055,6 @@ SAGE DOES NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.</p>
     (INCLUDING, WITHOUT LIMITATION, RIGHTS UNDER PATENTS) THAT MAY APPLY
     TO THE USE OF ANY CONTENT (INCLUDING USER MATERIALS) AVAILABLE ON OR
     THROUGH THE SERVICE.</p>
-
-<!-- -->
 
 <p><strong>17.3 &nbsp;&nbsp; </strong> NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU
     FROM THE SERVICE OR SAGE ENTITIES OR ANY MATERIALS OR CONTENT
