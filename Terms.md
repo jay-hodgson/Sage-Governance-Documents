@@ -472,7 +472,7 @@ fully paid right and license (with the right to sublicense through
 multiple tiers) to view, access, store, transfer, display, process,
 and use in their work, in whole or in part, in any media formats and
 through any media channels, in each instance whether now known or
-hereafter developed. \[insert link to open source license\].</p>
+hereafter developed.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 9.7 (b) &nbsp;&nbsp; <ins>To Sage.</ins> By Posting Private Content to or via the Service, you
 grant Sage, our legal successor and assigns, a worldwide,
@@ -800,9 +800,8 @@ Email: copyright@sagebase.org
 Content made available on or through the Service has been used or
 exploited in a manner that infringes an intellectual property right you
 own or control, then please promptly send a written
-<span dir="rtl">“</span>Notification of Claimed Infringement” to the
-Designated Agent identified above containing the following
-information:</p>
+<span dir="rtl">“</span><ins><strong>Notification of Claimed Infringement</strong></ins>” to the
+Designated Agent identified above containing the following information:</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; an electronic or physical signature of the person authorized to act on
 behalf of the owner of the copyright or other right being infringed;</p>
