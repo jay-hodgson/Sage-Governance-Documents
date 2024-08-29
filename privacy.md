@@ -14,7 +14,7 @@ thereof, you should not access or use any part of the Services. Beyond
 the Privacy Policy, your use of our Services is also subject to the
 [<u>Sage Terms of
 Service</u>](https://s3.amazonaws.com/static.synapse.org/governance/SageBionetworksSynapseTermsandConditionsofUse.pdf?v=5)
-which are incorporated herein by reference (the “Terms of Service”). All
+which are incorporated herein by reference (the “**Terms of Service**”). All
 terms not herein defined shall have the meaning as set forth in the
 Terms of Service.
 
@@ -312,19 +312,19 @@ view, the searches you conduct, people you follow, purchases you make,
 your comments, any Content you Post, and the dates and times of your
 visits.
 
-**Advertising Partners.** We may occasionally work with third-party
-advertising partners to show you ads that we think may interest you.
+**Advertising Partners.** We may occasionally work with third parties
+to show you content that we think may interest you. These recommendations are intended to enhance
+your experience by exposing you to relevant datasets and resources from various platforms
+within the open science community. 
 Some of our advertising partners are members of the Network Advertising
 Initiative
 ([<u>https://optout.networkadvertising.org</u>](https://optout.networkadvertising.org))
 or the Digital Advertising Alliance
 ([<u>https://optout.aboutads.info</u>](https://optout.aboutads.info)).
-If you do not wish to receive personalized ads, please visit their
-opt-out pages to learn about how you may opt out of receiving web-based
-personalized ads from member companies. You can access any settings
-offered by your mobile operating system to limit ad tracking, or you can
-install the AppChoices mobile app to learn more about how you may opt
-out of personalized ads in mobile apps.
+If you prefer not to receive these recommendations, you have the option to opt-out.
+You can manage your preferences through the settings available on your device, or by utilizing tools
+such as the AppChoices mobile app. These options allow you to control the type of content
+you are exposed to in alignment with your research needs and preferences.
 
 **As Required By Law and Similar Disclosures.** We may access, preserve,
 and disclose your Personal Information with law enforcement agencies,
@@ -498,5 +498,5 @@ to notify you through our Services, by email, or other communication.
 Sage is the controller or entity responsible for processing your
 Personal Information. If you have any questions, comments, or concerns
 about our processing activities, please email us at
-<privacyofficer@sagebionetworks.org> or write to us at 2901 Third Ave.,
-Suite 330, Seattle WA 98121, the U.S.
+<privacyofficer@sagebionetworks.org> or write to us at Sage Bionetworks, Attn: Privacy Officer, 2901 Third Ave.,
+Suite 330, Seattle WA 98121, U.S.A
