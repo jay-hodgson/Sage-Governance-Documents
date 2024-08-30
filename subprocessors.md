@@ -13,10 +13,12 @@ Before engaging third-party subprocessors, Sage Bionetworks evaluates their priv
 | Sub-Processor | Location | Description/Purpose | Link |
 | Amazon Web Services (AWS) | USA, Germany, Ireland | Cloud services, infrastructure platform, website hosting | [<u>https://aws.amazon.com/</u>](https://aws.amazon.com/) |
 | Atlassian | USA | Process/product management and documentation | <u>https://www.atlassian.com/</u> |
+| Clear Company | USA | Hiring | <u>https://www.clearcompany.com/</u> |
 | DocuSign | USA | Contract Administration and signature tool | [<u>https://www.docusign.com/</u>](https://www.docusign.com/) |
 | Google LLC | USA | Authentication, email, workspace (G Suite) | [<u>https://google.com/</u>](https://google.com/) |
 | Slack | USA | Chat | [<u>https://slack.com/</u>](https://slack.com/) |
 | Snowflake Inc. | USA | Analytics- data warehouse | [<u>https://www.snowflake.com/</u>](https://www.snowflake.com/) |
+| Stripe | USA | Billing | <u>https://stripe.com/</u> |
 | Zoom | USA | Virtual meetings | [<u>https://zoom.us/</u>](https://zoom.us/) |
 | CloudMailin | UK | Email | <u>https://www.cloudmailin.com/</u> | 
 
