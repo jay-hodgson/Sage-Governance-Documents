@@ -72,12 +72,8 @@ licenses to Sage and other users.</p></li>
 
 <h2>Full Terms of Service</h2>
 
-Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</strong>,” “<strong>we
-</strong>” or “<strong>us</strong>") and our services. These include our Synapse platform located at
-www.synapse.org, our websites, hosted applications, mobile, or other downloadable applications, portals,
-topical challenges run through platform(s), analysis tools, and other information and services provided by
-us (collectively, the “<strong>Service”</strong>"). These Terms of Service are a legally binding contract between you (“<strong>you</strong>”
-or “<strong>your</strong>”) and Sage regarding your use of the Service.
+Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</strong>,” “<strong>we</strong>” or “<strong>us</strong>") and our services. These include our Synapse platform located at www.synapse.org, our websites, hosted applications, mobile, or other downloadable applications, portals, topical challenges run through platform(s), analysis tools, and other information and services provided by
+us (collectively, the “<strong>Service”</strong>"). These Terms of Service are a legally binding contract between you (“<strong>you</strong>”or“<strong>your</strong>”) and Sage regarding your use of the Service.
 
 <p>PLEASE READ THE FOLLOWING TERMS CAREFULLY</p>
 
@@ -116,9 +112,7 @@ following:</p>
 reuse datasets to improve knowledge of health and disease. Sage acts as
 a steward for the content available through Synapse. Synapse users are
 responsible for the data they submit to and/or share through the
-Service. Synapse offers multiple tiers of functionality with different
-restrictions and limitations on types of allowable User Content (as
-defined below in Section 9.3).</p>
+Service. Synapse offers multiple tiers of functionality with different restrictions and limitations on types of allowable User Content (as defined below in Section 9.3).</p>
 
 <p><strong>1.2 &nbsp;&nbsp; Challenge Platform(s)</strong>; a technology platform that supports an
 open-science, collaborative competition framework for evaluating and
@@ -145,9 +139,7 @@ restrictions associated with such User Content. Consistent with Section 8, any u
     <h3>&nbsp;&nbsp; Medical Advice Disclaimer.</h3>
 <p> All Content accessible through the Service is for informational purposes only. Materials (as defined
 below in Section 7) and Content are not a substitute for professional advice on any matter, medical or
-otherwise. Always seek the advice of a qualified health professional. Sage does not recommend or endorse any
-treatment, institution, professional, physician, product, procedure, or other information that may be
-mentioned through the Service.</p>
+otherwise. Always seek the advice of a qualified health professional. Sage does not recommend or endorse any treatment, institution, professional, physician, product, procedure, or other information that may be mentioned through the Service.</p>
 </li>
 
 <li>
@@ -206,36 +198,20 @@ otherwise do not understand and respect the ethical, legal, and
 technical issues associated with using the Service, we reserve the right
 to inactivate your account immediately with or without notice to you and
 without any liability to you or any third party, subject to applicable
-law. In the event we terminate your account, you will lose access to any
-Content, which may include User Content you have contributed.</p>
+law. In the event we terminate your account, you will lose access to any Content, which may include User Content you have contributed.</p>
 
-<p><strong>4.3 &nbsp;&nbsp; Compliance with Laws.</strong> By using the Service, you affirm, represent,
-and warrant to us that you will only use the Service for legal purposes
-and will not violate any local, state, national, or international law,
-regulation, including all privacy laws and regulations, or order of any
-governmental authority in any jurisdiction.</p></li>
+<p><strong>4.3 &nbsp;&nbsp; Compliance with Laws.</strong> By using the Service, you affirm, represent, and warrant to us that you will only use the Service for legal purposes and will not violate any local, state, national, or international law, regulation, including all privacy laws and regulations, or order of any governmental authority in any jurisdiction.</p></li>
 
 <li>
 <h3>&nbsp;&nbsp; Payment Terms.</h3>
 
 <p><strong>5.1 &nbsp;&nbsp; General Payment Terms.</strong> Certain features of the Service may require you
-to pay fees. Before you pay any fees, you will have an opportunity to
-review and accept the fees that you will be charged. All fees are in
-U.S. Dollars and are non-refundable unless otherwise specifically
-provided for in these Terms. All payments are due within 30 days of
-invoice unless otherwise agreed to by Sage.</p>
+to pay fees. Before you pay any fees, you will have an opportunity to review and accept the fees that you will be charged. All fees are in U.S. Dollars and are non-refundable unless otherwise specifically provided for in these Terms. All payments are due within 30 days of invoice unless otherwise agreed to by Sage.</p>
 
-<p><strong>5.2 &nbsp;&nbsp; Price.</strong> Sage reserves the right to determine pricing for the
-Service. Sage will make reasonable efforts to keep published pricing
-information on the Service up to date. We encourage you to check our
-pricing page periodically for current menu pricing information. Sage
-may change the fees for any feature of the Service, including
-additional fees or charges. Sage will give you advance notice of
-changes before they apply. Sage, at its sole discretion, may make
-promotional offers with different features and different pricing to
-any of Sage<span dir="rtl">’</span>s customers. These promotional
-offers, unless made to you, will not apply to your offer or these
-Terms.</p>
+<p><strong>5.2 &nbsp;&nbsp; Price.</strong> Sage reserves the right to determine pricing for the Service. Sage will make reasonable efforts to keep published pricing
+information on the Service up to date. We encourage you to check our pricing page periodically for current menu pricing information. Sage may change the fees for any feature of the Service, including
+additional fees or charges. Sage will give you advance notice of changes before they apply. Sage, at its sole discretion, may make promotional offers with different features and different pricing to
+any of Sage<span dir="rtl">’</span>s customers. These promotional offers, unless made to you, will not apply to your offer or these Terms.</p>
 
 <p><strong>5.3 &nbsp;&nbsp; Authorization.</strong> You authorize Sage to charge all sums for the
 orders that you make and any level of Service you select as
@@ -368,14 +344,9 @@ Projects, as appropriate for such User Content or as required by
 applicable law.</p>
 
 <p><strong>9.3 &nbsp;&nbsp; User Content Generally.</strong> Certain features of the Service may permit
-users to submit, upload, publish, broadcast, or otherwise transmit
-and make available to other users ("<ins><strong>Post</strong></ins>”)
-Content. Any Content that is Posted by any user of the Service
-(including Public Content and Private Content) other than Sage is
-referred to in these Terms as "<ins><strong>User Content</strong></ins>.”
-You retain any copyright and other proprietary rights that you may
-hold in the User Content that you Post to the Service, subject to
-the licenses granted in these Terms.</p>
+users to submit, upload, publish, broadcast, or otherwise transmit and make available to other users ("<ins><strong>Post</strong></ins>”)
+Content. Any Content that is Posted by any user of the Service (including Public Content and Private Content) other than Sage is
+referred to in these Terms as "<ins><strong>User Content</strong></ins>.” You retain any copyright and other proprietary rights that you may hold in the User Content that you Post to the Service, subject to the licenses granted in these Terms.</p>
 
 <p><strong>9.4 &nbsp;&nbsp; Compliance with Data Processing Requirements.</strong> If you Post User
 Content, you warrant that your Posting and any subsequent sharing of
@@ -403,47 +374,21 @@ Content, and uploading User Content with personally identifiable
 information (e.g., not properly de-identified) without
 authorization.</p>
 
-<p><strong>9.6 &nbsp;&nbsp; Limited License for Public Content.</strong> By Posting Public Content to
-or via the Service, you grant the licenses set forth in this Section
-9.6. All of the rights you grant in these Terms are provided on a
-through-to-the-audience basis, meaning the owners or operators of
-external services will not have any separate liability to you or any
-other third party for Public Content Posted, or otherwise used on
-external services via the Service. You agree to pay all monies owing
-to any person or entity resulting from Posting your Public Content
-and/or Sage<span dir="rtl">’</span>s exercise of the licenses set
-forth in this Section 9.6.</p>
+<p><strong>9.6 &nbsp;&nbsp; Limited License for Public Content.</strong> By Posting Public Content to or via the Service, you grant the licenses set forth in this Section 9.6. All of the rights you grant in these Terms are provided on a through-to-the-audience basis, meaning the owners or operators of external services will not have any separate liability to you or any other third party for Public Content Posted, or otherwise used on
+external services via the Service. You agree to pay all monies owing to any person or entity resulting from Posting your Public Content
+and/or Sage<span dir="rtl">’</span>s exercise of the licenses set forth in this Section 9.6.</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.6 (a) &nbsp;&nbsp; <ins>To Users.</ins> By Posting Public Content to or via the Service, you grant
-all users of the Service, subject to any User Content restrictions
-you provide, a license to such Public Content pursuant to (i) the Creative Commons BY 4.0 License for any data included in your Public
-Content, (ii) the Apache 2 license for any software or source code included in your Public Content, and/or the Open
-RAIL-M licenses with respect to any artificial intelligence or
-machine learning models included in your Public Content, as
-applicable. If at any time you make all or portions of your Public
-Content private, users who have relied on the license granted in
-this Section 9.6(a) shall maintain all rights granted pursuant to
-such license and shall be able to continue to use such User Content
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.6 (a) &nbsp;&nbsp; <ins>To Users.</ins> By Posting Public Content to or via the Service, you grant all users of the Service, subject to any User Content restrictions you provide, a license to such Public Content pursuant to (i) the Creative Commons BY 4.0 License for any data included in your Public Content, (ii) the Apache 2 license for any software or source code included in your Public Content, and/or the Open
+RAIL-M licenses with respect to any artificial intelligence or machine learning models included in your Public Content, as applicable. If at any time you make all or portions of your Public
+Content private, users who have relied on the license granted in this Section 9.6(a) shall maintain all rights granted pursuant to such license and shall be able to continue to use such User Content
 in accordance with the license.</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.6 (b)&nbsp;&nbsp; <ins>To Sage.</ins> In addition to the license in Section 9.6(a) above, by
-Posting Public Content to or via the Service, you grant Sage, our
-legal successor and assignees, a worldwide, non-exclusive,
-irrevocable, royalty-free, fully paid right and license (with the
-right to sublicense through multiple tiers) to host, store,
-transfer, archive, parse, process, index, display, publicly perform
-(including by means of a digital audio transmission), communicate to
-the public, publish, reproduce, modify for the purpose of formatting
-for display, create derivate works, make copies of, use in
-connection with offering the Service, improving the Service, the
-development and deployment of additional products, and the
-development, training, testing, and deployment of artificial
-intelligence and/or machine learning models, derive and create
-metadata from, and distribute your Public Content, in whole or in
-part, in any media formats and through any media channels, in each
-instance whether now known or hereafter developed. This license
-grants Sage the right to distribute or use your Public Content
-outside of our provision of the Service to archive and improve
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.6 (b)&nbsp;&nbsp; <ins>To Sage.</ins> In addition to the license in Section 9.6(a) above, by Posting Public Content to or via the Service, you grant Sage, our
+legal successor and assignees, a worldwide, non-exclusive, irrevocable, royalty-free, fully paid right and license (with the right to sublicense through multiple tiers) to host, store,
+transfer, archive, parse, process, index, display, publicly perform (including by means of a digital audio transmission), communicate to
+the public, publish, reproduce, modify for the purpose of formatting for display, create derivate works, make copies of, use in connection with offering the Service, improving the Service, the
+development and deployment of additional products, and the development, training, testing, and deployment of artificial intelligence and/or machine learning models, derive and create metadata from, and distribute your Public Content, in whole or in part, in any media formats and through any media channels, in each instance whether now known or hereafter developed. This license
+grants Sage the right to distribute or use your Public Content outside of our provision of the Service to archive and improve
 discoverability of your Public Content, and permits our partners to
 store and archive your Public Content in public repositories. If at
 any time you make all or portions of your Public Content private,
@@ -564,12 +509,9 @@ Content contributor must provide, the (English-translated) templates
 of the informed consent document or the protocol governing the User
 Content in replacement of an IRB decision.</p>
 
-<p><strong>9.10. &nbsp;&nbsp; Use of User Content.</strong> If you publish, present or otherwise disclose
-User Content, derivatives of User Content, or results from analysis
-of User Content, you must properly attribute the source of the User
-Content. Your use of User Content must comply with any applicable
-additional User Content restrictions. Use of User Content, including
-but not limited to any Data or Software, is at your own risk.</p>
+<p><strong>9.10. &nbsp;&nbsp; Use of User Content.</strong> If you publish, present or otherwise disclose User Content, derivatives of User Content, or results from analysis
+of User Content, you must properly attribute the source of the User Content. Your use of User Content must comply with any applicable
+additional User Content restrictions. Use of User Content, including but not limited to any Data or Software, is at your own risk.</p>
 
 <p><strong>9.11. &nbsp;&nbsp; Monitoring.</strong> Sage has the right but not the obligation to monitor
 the use and activities of the Service. Sage may, however, at any
