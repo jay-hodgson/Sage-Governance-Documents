@@ -1,6 +1,6 @@
 **Sage Bionetworks Subprocessors** 
 
-**Last Updated: November 15, 2023** 
+**Last Updated: August, 30, 2024** 
 
 Sage Bionetworks may engage and use third-party subprocessors in connection with our products and services, including hosting and infrastructure services, help with customer and technical support, email notifications, and other services. These subprocessors may have access to certain Personal Data provided either directly by the user or by Sage Bionetworks to perform the services on behalf of the user. This page provides important information about the identity, location, and role of each subprocessor.  
 
