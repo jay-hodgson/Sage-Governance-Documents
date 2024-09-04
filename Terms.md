@@ -36,14 +36,12 @@ Here is a summary of several key provisions of Sage Bionetworks’ Terms of Serv
 </ul>  
 
 <p><strong>When contributing User Content, or accessing advanced features you must: </strong></p>
-<ul>
-<li><p>Complete the Sage Bionetworks training to demonstrate understanding of rules for redistributing datasets, Software, or other Content, and interacting with cloud technologies, APIs, and de-identified information.</p></li>
-<li><p>Remove direct HIPAA identifiers from Content you contribute, unless otherwise unambiguously authorized. See information about de-identification in accordance with the [HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html).</p></li>
-<li><p>Ensure that data participants have consented to the sharing and use of their Data, where required by applicable law.</p></li>
-    
-<li><p>License Public Content under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) and open-source licenses like [Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0)</p</li>
-<li><p>Grant Sage broader licenses for Private Content to operate services, improve products, and train AI models.</p></li>
-</ul>  
+
+- Complete the Sage Bionetworks training to demonstrate understanding of rules for redistributing datasets, Software, or other Content, and interacting with cloud technologies, APIs, and de-identified information.
+- Remove direct HIPAA identifiers from Content you contribute, unless otherwise unambiguously authorized. See information about de-identification in accordance with the [HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html).
+- Ensure that data participants have consented to the sharing and use of their Data, where required by applicable law.
+- License Public Content under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) and open-source licenses like [Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0)
+- Grant Sage broader licenses for Private Content to operate services, improve products, and train AI models.
 
 <p><strong>We want you to be aware that:</strong></p>
 <ul>
@@ -69,9 +67,9 @@ Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</s
 
 <p>PLEASE READ THE FOLLOWING TERMS CAREFULLY</p>  
 
-<p><strong>BY CLICKING “I ACCEPT”, DOWNLOADING, UPLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE </strong> YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND ANY ADDITIONAL APPLICABLE GOVERNANCE TERMS,    POLICIES, RULES, GUIDELINES, OFFERINGS, OR AGREEMENTS INCLUDING SAGE’S [PRIVACY POLICY](https://www.synapse.org/TrustCenter:PrivacyPolicy), ALL HEREBY INCORPORATED BY REFERENCE (TOGETHER, THESE “<strong><ins>TERMS</ins></strong>”). IF YOU ARE NOT ELIGIBLE, OR DO NOT AGREE TO THE TERMS, THEN YOU DO NOT HAVE OUR PERMISSION TO USE THE SERVICE. YOUR USE OF THE SERVICE, AND SAGE’S PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY SAGE AND BY YOU TO BE BOUND BY THESE TERMS.</p>   
+**BY CLICKING “I ACCEPT”, DOWNLOADING, UPLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE** YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND ANY ADDITIONAL APPLICABLE GOVERNANCE TERMS,    POLICIES, RULES, GUIDELINES, OFFERINGS, OR AGREEMENTS INCLUDING SAGE’S [PRIVACY POLICY](https://www.synapse.org/TrustCenter:PrivacyPolicy), ALL HEREBY INCORPORATED BY REFERENCE (TOGETHER, THESE “**TERMS**”). IF YOU ARE NOT ELIGIBLE, OR DO NOT AGREE TO THE TERMS, THEN YOU DO NOT HAVE OUR PERMISSION TO USE THE SERVICE. YOUR USE OF THE SERVICE, AND SAGE’S PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY SAGE AND BY YOU TO BE BOUND BY THESE TERMS. 
 
- <p>YOU AGREE TO RECEIVE TEXTS/CALLS FROM OR ON BEHALF OF SAGE AT THE PHONE NUMBER YOU PROVIDE TO US. THESE TEXTS/CALLS MAY INCLUDE AUTHENTICATION OR OTHER INFORMATION ABOUT THE SERVICE. YOU UNDERSTAND AND AGREE THAT THESE TEXTS/CALLS MAY BE CONSIDERED TELEMARKETING UNDER APPLICABLE LAW, THEY MAY BE SENT USING AN AUTOMATIC TELEPHONE DIALING SYSTEM OR OTHER AUTOMATED TECHNOLOGY, AND YOUR CONSENT IS NOT A CONDITION OF ANY PURCHASE </p>   
+YOU AGREE TO RECEIVE TEXTS/CALLS FROM OR ON BEHALF OF SAGE AT THE PHONE NUMBER YOU PROVIDE TO US. THESE TEXTS/CALLS MAY INCLUDE AUTHENTICATION OR OTHER INFORMATION ABOUT THE SERVICE. YOU UNDERSTAND AND AGREE THAT THESE TEXTS/CALLS MAY BE CONSIDERED TELEMARKETING UNDER APPLICABLE LAW, THEY MAY BE SENT USING AN AUTOMATIC TELEPHONE DIALING SYSTEM OR OTHER AUTOMATED TECHNOLOGY, AND YOUR CONSENT IS NOT A CONDITION OF ANY PURCHASE 
 
 <p><strong>ARBITRATION NOTICE</strong>. Except for certain kinds of disputes described in Section 19 (Dispute Resolution and Arbitration), you agree that disputes arising under these Terms will be resolved by binding, individual arbitration, and BY ACCEPTING THESE TERMS, YOU AND SAGE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING.</p>  
 
@@ -144,7 +142,7 @@ Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</s
 <li>
 <h3>&nbsp;&nbsp; Third-Party Terms</h3>  
 
-<p><strong>8.1 &nbsp;&nbsp; Third-Party Services and Linked Websites.</strong> Sage uses vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to operate the Service, as specified in Sage<span dir="rtl">’</span>s [<u>Privacy Policy</u>](https://www.synapse.org/TrustCenter:PrivacyPolicy). By using the Service, you hereby authorize Sage to give third-party service providers all information necessary for them to provide their services. Third-party services are not under Sage<span dir="rtl">’</span>s control, and, to the fullest extent permitted by law, Sage is not responsible for any third-party service<span dir="rtl">’</span>s use of your information. The Service may also contain links to third-party websites. Linked websites are not under Sage<span dir="rtl">’</span>s control, and Sage is not responsible for their content. Please be sure to review the terms of use and privacy policy of any linked websites before you share any User Content or information with such third-party websites. Once sharing occurs, Sage will have no control over the information that has been shared.</p>  
+**8.1 &nbsp;&nbsp; Third-Party Services and Linked Websites.** Sage uses vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to operate the Service, as specified in Sage<span dir="rtl">’</span>s [Privacy Policy](https://www.synapse.org/TrustCenter:PrivacyPolicy). By using the Service, you hereby authorize Sage to give third-party service providers all information necessary for them to provide their services. Third-party services are not under Sage<span dir="rtl">’</span>s control, and, to the fullest extent permitted by law, Sage is not responsible for any third-party service<span dir="rtl">’</span>s use of your information. The Service may also contain links to third-party websites. Linked websites are not under Sage<span dir="rtl">’</span>s control, and Sage is not responsible for their content. Please be sure to review the terms of use and privacy policy of any linked websites before you share any User Content or information with such third-party websites. Once sharing occurs, Sage will have no control over the information that has been shared.
 
 <p><strong>8.2 &nbsp;&nbsp; Third-Party Software.</strong> The Service may include or incorporate third-party software components that are generally available free of charge under licenses granting recipients broad rights to copy, modify, and distribute those components (<span dir="rtl">“</span><ins><strong>Third-Party Components</strong></ins>”). Although the Service is provided to you subject to these Terms, nothing in these Terms prevents, restricts, or is intended to prevent or restrict you from obtaining Third-Party Components under the applicable third-party licenses, or to limit your use of Third-Party Components under those third-party licenses.</p>
 </li>  
@@ -230,7 +228,7 @@ Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</s
 
 <p><strong>12.6 &nbsp;&nbsp;</strong> Post any User Content that is licensed under a Copyleft license or any other viral open source license;</p>  
 
-<p><strong>12.7 &nbsp;&nbsp;</strong> redistribute User Content in a manner that fails to comply with any provision of these Terms and any User Content restrictions; without limiting the generality of the foregoing, you may be permitted to redistribute User Content, but solely to the extent that you have assurances that all subsequent recipients comply with these Terms, the [Privacy Policy](https://www.synapse.org/TrustCenter:PrivacyPolicy), as well as any additional User Content restrictions;</p>  
+**12.7 &nbsp;&nbsp;** redistribute User Content in a manner that fails to comply with any provision of these Terms and any User Content restrictions; without limiting the generality of the foregoing, you may be permitted to redistribute User Content, but solely to the extent that you have assurances that all subsequent recipients comply with these Terms, the [Privacy Policy](https://www.synapse.org/TrustCenter:PrivacyPolicy), as well as any additional User Content restrictions; 
 
 <p><strong>12.8 &nbsp;&nbsp;</strong> use or attempt to use the User Content to harm, marginalize, or discriminate against individuals or populations, whether in insurance, employment, or other manners;</p>  
 
@@ -270,7 +268,7 @@ Welcome, and thank you for your interest in Sage Bionetworks (“<strong>Sage</s
 
 Sage Bionetworks Attn: PCO-Copyright 2901 Third Ave, Ste 330, Seattle, WA 98121 Email: copyright@sagebase.org  
 
-<p><strong>13.3 &nbsp;&nbsp;Procedure for Reporting Claimed Infringement.</strong> If you believe that any Content made available on or through the Service has been used or exploited in a manner that infringes an intellectual property right you own or control, then please promptly submit a [Notifice of Copyright Infringement](https://airtable.com/appdeaOCYSUOF84Tl/pagFn3omUEwrCqodO/form) or send to the Designated Agent identified above a letter containing the following information:</p>  
+**13.3 &nbsp;&nbsp;Procedure for Reporting Claimed Infringement.** If you believe that any Content made available on or through the Service has been used or exploited in a manner that infringes an intellectual property right you own or control, then please promptly submit a [Notifice of Copyright Infringement](https://airtable.com/appdeaOCYSUOF84Tl/pagFn3omUEwrCqodO/form) or send to the Designated Agent identified above a letter containing the following information:  
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other right being infringed;</p>  
 
@@ -376,7 +374,7 @@ Sage Bionetworks Attn: PCO-Copyright 2901 Third Ave, Ste 330, Seattle, WA 98121 
 
 <p><strong>20.2 &nbsp;&nbsp;Governing Law.</strong> These Terms are governed by the laws of the State of Washington without regard to conflict of law principles. You and Sage submit to the personal and exclusive jurisdiction of the state courts and federal courts located within King County, Washington for resolution of any lawsuit or court proceeding permitted under these Terms. We operate the Service from our offices in Washington, and we make no representation that Materials included in the Service are appropriate or available for use in other locations. In the event that you are a sovereign entity and are unable to comply with this section, please contact privacyofficer@sagebase.org</p>  
 
-<p><strong>20.3 &nbsp;&nbsp; Privacy Policy.</strong> Please read the [Privacy Policy](https://www.synapse.org/TrustCenter:PrivacyPolicy) carefully for information relating to our collection, use, storage, and disclosure of your personal data. The Privacy Policy is incorporated by this reference into, and made a part of, these Terms.</p>  
+**20.3 &nbsp;&nbsp; Privacy Policy.** Please read the [Privacy Policy](https://www.synapse.org/TrustCenter:PrivacyPolicy) carefully for information relating to our collection, use, storage, and disclosure of your personal data. The Privacy Policy is incorporated by this reference into, and made a part of, these Terms.  
 
 <p><strong>20.4 &nbsp;&nbsp; Additional Terms.</strong> Your use of the Service is subject to all additional terms, policies, rules, or guidelines applicable to the Service or certain features of the Service that we may post on or link to from the Service (the <span dir="rtl">“</span><ins><strong>Additional Terms</strong></ins>”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms.</p>  
 
