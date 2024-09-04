@@ -12,7 +12,7 @@ Device fingerprinting: Collection of information about your device's characteris
 
 You can manage your cookie preferences through your browser settings. However, disabling cookies may limit some features of our website.  
 
-For more information on how we use and protect your data, please refer to our [Privacy Policy](https://s3.amazonaws.com/static.synapse.org/governance/SynapsePrivacyPolicy.pdf).  
+For more information on how we use and protect your data, please refer to our [Privacy Policy](https://www.synapse.org/TrustCenter:PrivacyPolicy).  
 
 We use the following Cookies:  
 
