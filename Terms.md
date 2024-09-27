@@ -1,7 +1,7 @@
 **<h1>Sage Bionetworks Terms of Service</h1>** 
 
 <!-- Enter Date -->
-<strong> Last Updated: [Date]</strong> 
+<strong> Effective Date: Nov 15, 2024</strong> 
 
 <h2>Summary of Key Provisions</h2> 
 
