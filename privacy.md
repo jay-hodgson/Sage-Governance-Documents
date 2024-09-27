@@ -1,6 +1,6 @@
 **Sage Bionetworks Privacy Policy**  
 
-Last Updated: Date  
+Last updated: Nov 15, 2024  
 
 Sage Bionetworks (“**Sage**,” “**we**,” “**our**,” and/or “**us**”)
 values the privacy of individuals who use our services, including our Synapse Platform (https://www.synapse.org/), our portals, our other websites, and services provided by us (collectively, our “**Services**”). This privacy policy (the “**Privacy Policy**”) explains how we collect, use, and disclose Personal Information from users of our Services (“**you**” or “**your**”). Please read this Privacy Policy carefully. If you do not agree with this Privacy Policy or any part thereof, you should not access or use any part of the Services. Beyond the Privacy Policy, your use of our Services is also subject to the Sage [Terms of Service](https://www.synapse.org/TrustCenter:TermsOfService) which are incorporated herein by reference (the “**Terms of Service**”). All terms not herein defined shall have the meaning as set forth in the Terms of Service.  
