@@ -45,7 +45,7 @@ Here is a summary of several key provisions of Sage Bionetworks’ Terms of Serv
 
 <p><strong>We want you to be aware that:</strong></p>
 <ul>
-<li><p>We will remove Content if we deem it inappropriate and will cancel your account for violations, or prolonged inactivity./p></li>
+<li><p>We will remove Content if we deem it inappropriate and will cancel your account for violations, or prolonged inactivity.</p></li>
 <li><p>We respect the intellectual property rights, including copyrights, patents, trade secrets, and trademarks, of others, and ask you to do the same. You retain copyright in the content you post but grant licenses to Sage and other users.</p></li>
 <li><p>We have the right to use your Content to operate our services and develop new products.</p></li>
 <li><p>You must be 18 years or older to use our services.</p></li>
